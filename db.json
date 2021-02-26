@@ -1,0 +1,17 @@
+{
+  "newsletters": [
+    {
+      "id": "1",
+      "title": "디독",
+      "description": "해외 디자인 아티클 번역 뉴스레터, 읽는 디자인 디독. 디독은 Design+讀(읽을 독)의 합성어로, 매주 목(주 1회) 인사이트 넘치는 해외 디자인 아티클을 읽기 쉽게 번역하여 보내드립니다.",
+      "subscriptionLink":	"https://page.stibee.com/subscriptions/31254",
+      "sendingTerm":	"weekly",
+      "sendingNumber":	"1",
+      "sendingDay":	["Thu"],
+      "sendingTime":"-",
+      "categories":	["디자인"],	
+      "sampleLetterLink": "-",
+      "lang": "국문"	
+    }
+  ]
+}
