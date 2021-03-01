@@ -1,6 +1,8 @@
 const PROCESS_BTN = document.getElementById('process');
 const COPY_BTN = document.getElementById('copy');
+const SELECT_BTN = document.getElementById('selectedFile');
 
+SELECT_BTN.addEventListener('click', () => document.getElementById("jsonText").innerText = '');
 PROCESS_BTN.addEventListener('click', processFile);
 COPY_BTN.addEventListener('click', copyJsonText);
 
