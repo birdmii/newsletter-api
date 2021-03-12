@@ -1,22 +1,35 @@
 const PROCESS_BTN = document.getElementById('process');
 const COPY_BTN = document.getElementById('copy');
 const SELECT_BTN = document.getElementById('selectedFile');
+const file = document.querySelector('#selectedFile');
+const reader = new FileReader();
 
-SELECT_BTN.addEventListener('click', () => document.getElementById("jsonText").innerText = '');
+SELECT_BTN.addEventListener(
+  'click',
+  () => (document.getElementById('jsonText').innerText = ''),
+);
 PROCESS_BTN.addEventListener('click', processFile);
 COPY_BTN.addEventListener('click', copyJsonText);
 
-function processFile(){
+function processFile() {
+  const selectedFile = file.files[0];
   console.log('processing...');
-  let file = document.querySelector('#selectedFile').files[0];
-  let reader = new FileReader();
-  reader.readAsText(file);
+
+  if (selectedFile) {
+    reader.addEventListener('error', () => {
+      console.error(`Error occurred reading file: ${selectedFile.name}`);
+    });
+
+    reader.addEventListener('load', () => {
+      console.log(`File: ${selectedFile.name} read successfully`);
+    });
+    reader.readAsText(selectedFile);
+  }
 
   let result = [];
   let header = [];
   //When the file finish load
-  reader.onload = function(event) {
-
+  reader.onload = function (event) {
     let csv = event.target.result;
     let rows = csv.split(';');
 
@@ -27,30 +40,30 @@ function processFile(){
       for (let j = 0; j < cols.length; j++) {
         let value = escapeRegExp(cols[j]);
         //make a header arr
-        if(i === 0) {
+        if (i === 0) {
           header[j] = value;
         } else {
           obj[header[j]] = value;
         }
       }
-      if(i !== 0) {
+      if (i !== 0) {
         result.push(obj);
       }
     }
     document.getElementById('jsonText').innerText = JSON.stringify(result);
-  }
+  };
 }
 
 function escapeRegExp(str) {
-  return str.replace(/^[,\r\n]|,$/gm, ''); 
+  return str.replace(/^[,\r\n]|,$/gm, '');
 }
 
 function copyJsonText() {
-  let copyText = document.getElementById("jsonText");
+  let copyText = document.getElementById('jsonText');
 
   copyText.select();
-  copyText.setSelectionRange(0, 99999); 
-  document.execCommand("copy");
+  copyText.setSelectionRange(0, 99999);
+  document.execCommand('copy');
 
-  alert("Yay:D Copied to your Clipboard!");
+  alert('Yay:D Copied to your Clipboard!');
 }
