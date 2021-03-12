@@ -38,11 +38,15 @@ function processFile() {
 
       let obj = {};
       for (let j = 0; j < cols.length; j++) {
+        // console.log(cols[j]);
         let value = escapeRegExp(cols[j]);
         //make a header arr
         if (i === 0) {
           header[j] = value;
         } else {
+          if(j === 6 || j === 8) {
+            value = makeCharToArr(value)
+          }
           obj[header[j]] = value;
         }
       }
@@ -58,11 +62,21 @@ function escapeRegExp(str) {
   return str.replace(/^[,\r\n]|,$/gm, '');
 }
 
+function makeCharToArr(str) {
+  let arr = [];
+  if(str !== '') {
+    str = str.replace(/"/gm, '');
+    arr = str.split(',');
+  }
+
+  return arr;
+}
+
 function copyJsonText() {
   let copyText = document.getElementById('jsonText');
 
   copyText.select();
-  copyText.setSelectionRange(0, 99999);
+  copyText.setSelectionRange(0, copyText.value.length);
   document.execCommand('copy');
 
   alert('Yay:D Copied to your Clipboard!');

@@ -6,9 +6,14 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/31254",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "디자인",
-    "tags": "\"[“아티클”,”디자이너”]\"",
+    "tags": [
+      "아티클",
+      "디자이너"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -20,9 +25,11 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/29178",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Wed”]",
+    "sendingDay": [
+      "Wed"
+    ],
     "categories": "디자인",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "https://page.stibee.com/archives/29178",
     "lang": "ko",
     "isChecked": "true"
@@ -34,9 +41,13 @@
     "subscriptionLink": "https://mailchi.mp/b8843ed77ecd/saltho_subscription",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "뉴스",
-    "tags": "[“트렌드”]",
+    "tags": [
+      "트렌드"
+    ],
     "sampleLetterLink": "https://us8.campaign-archive.com/?e=[UNIQID]&u=2e9edbac18058219e61aab5fd&id=682f911635",
     "lang": "ko",
     "isChecked": "true"
@@ -48,9 +59,13 @@
     "subscriptionLink": "https://www.careet.net/Subscribe",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Tue”]",
+    "sendingDay": [
+      "Tue"
+    ],
     "categories": "뉴스",
-    "tags": "[“트렌드”]",
+    "tags": [
+      "트렌드"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -62,9 +77,11 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/51974",
     "sendingTerm": "biweekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Tue”]",
+    "sendingDay": [
+      "Tue"
+    ],
     "categories": "마케팅",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -76,9 +93,11 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/51974",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Fri”]",
+    "sendingDay": [
+      "Fri"
+    ],
     "categories": "마케팅",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -90,9 +109,14 @@
     "subscriptionLink": "https://insidestory.kr/newsletter-2",
     "sendingTerm": "biweekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Wed”]",
+    "sendingDay": [
+      "Wed"
+    ],
     "categories": "뉴스",
-    "tags": "\"[“브랜드”, “트렌드”]\"",
+    "tags": [
+      "브랜드",
+      "트렌드"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "false"
@@ -104,9 +128,11 @@
     "subscriptionLink": "http://the-edit.co.kr/newsletter",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Fri”]",
+    "sendingDay": [
+      "Fri"
+    ],
     "categories": "트렌드",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -118,9 +144,13 @@
     "subscriptionLink": "http://glance.media/subscription/subscribe",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Mon”]",
+    "sendingDay": [
+      "Mon"
+    ],
     "categories": "커리어",
-    "tags": "[“스타트업”]",
+    "tags": [
+      "스타트업"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -132,9 +162,9 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/49584",
     "sendingTerm": "monthly",
     "sendingNumber": "2",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "커리어",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -146,9 +176,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/39990",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Fri”]",
+    "sendingDay": [
+      "Fri"
+    ],
     "categories": "커리어",
-    "tags": "[“스타트업”]",
+    "tags": [
+      "스타트업"
+    ],
     "sampleLetterLink": "https://page.stibee.com/archives/39990",
     "lang": "ko",
     "isChecked": "true"
@@ -160,9 +194,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/54236",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Tue”]",
+    "sendingDay": [
+      "Tue"
+    ],
     "categories": "커리어",
-    "tags": "[“밀레니얼”]",
+    "tags": [
+      "밀레니얼"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -174,9 +212,13 @@
     "subscriptionLink": "https://mailchi.mp/startupall/newsletter2",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Mon”]",
+    "sendingDay": [
+      "Mon"
+    ],
     "categories": "커리어",
-    "tags": "[“스타트업”]",
+    "tags": [
+      "스타트업"
+    ],
     "sampleLetterLink": "https://us8.campaign-archive.com/home/?u=8d8fee8af3a232bbab53bda55&id=80d36b5ff0",
     "lang": "ko",
     "isChecked": "true"
@@ -188,9 +230,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/61765?groupIds=56635",
     "sendingTerm": "biweekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "라이프스타일",
-    "tags": "[“자기계발”]",
+    "tags": [
+      "자기계발"
+    ],
     "sampleLetterLink": "https://aha-contents.tistory.com/category/%EC%95%84%ED%95%98%EB%A0%88%ED%84%B0%20%EC%A7%80%EB%82%9C%20%ED%98%B8%20%EB%B3%B4%EA%B8%B0",
     "lang": "ko",
     "isChecked": "true"
@@ -202,9 +248,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/76672",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "커리어",
-    "tags": "[“직장인”]",
+    "tags": [
+      "직장인"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "false"
@@ -216,9 +266,13 @@
     "subscriptionLink": "https://sideproject.co.kr/newsletter?mwr=e70cec98",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Wed”]",
+    "sendingDay": [
+      "Wed"
+    ],
     "categories": "라이프스타일",
-    "tags": "[“자기계발”]",
+    "tags": [
+      "자기계발"
+    ],
     "sampleLetterLink": "https://us17.campaign-archive.com/home/?u=a89600e386cefa6d4758d1106&id=3c3978422c",
     "lang": "ko",
     "isChecked": "true"
@@ -230,9 +284,13 @@
     "subscriptionLink": "https://newneek.co/?utm_medium=email&utm_source=newneek_newsletter&utm_campaign=not_yet_subscribed&utm_content=footer_subscription_link",
     "sendingTerm": "weekly",
     "sendingNumber": "3",
-    "sendingDay": "\"[“Mon”,”Wed”,”Fri”]\"",
+    "sendingDay": [
+      "Mon",
+      "Wed",
+      "Fri"
+    ],
     "categories": "뉴스",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -244,9 +302,16 @@
     "subscriptionLink": "https://www.bookjournalism.com/news-briefing?utm_source=News+Briefing&utm_campaign=0660ccf87c-EMAIL_CAMPAIGN_2020_07_20_06_54_COPY_01&utm_medium=email&utm_term=0_2b52bbebb8-0660ccf87c-104342279",
     "sendingTerm": "weekly",
     "sendingNumber": "6",
-    "sendingDay": "\"[“Mon”,”Tue”,”Wed”,”Thu”,”Fri”,”Sat”]\"",
+    "sendingDay": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri",
+      "Sat"
+    ],
     "categories": "뉴스",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -258,9 +323,9 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/80902",
     "sendingTerm": "daily",
     "sendingNumber": "1",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "뉴스",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "false"
@@ -272,9 +337,13 @@
     "subscriptionLink": "https://mailchi.mp/notique/subscribe-newsletter",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "라이프스타일",
-    "tags": "[“자아탐구”]",
+    "tags": [
+      "자아탐구"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -286,9 +355,13 @@
     "subscriptionLink": "https://nicetomeetme.kr/newsletter",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Mon”]",
+    "sendingDay": [
+      "Mon"
+    ],
     "categories": "라이프스타일",
-    "tags": "[“자아탐구”]",
+    "tags": [
+      "자아탐구"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -300,9 +373,18 @@
     "subscriptionLink": "https://uppity.co.kr/",
     "sendingTerm": "weekly",
     "sendingNumber": "5",
-    "sendingDay": "\"[“Mon”,”Tue”,”Wed”,”Thu”,”Fri”]\"",
+    "sendingDay": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
     "categories": "경제",
-    "tags": "\"[“금융”,“재테크”]\"",
+    "tags": [
+      "금융",
+      "재테크"
+    ],
     "sampleLetterLink": "https://www.notion.so/7a061d7564a24f2d8c30684dc3fec120",
     "lang": "ko",
     "isChecked": "false"
@@ -314,9 +396,14 @@
     "subscriptionLink": "https://better-tomorrow.co.kr/newsletter?utm_source=newletter&utm_medium=email&utm_campaign=subscribe",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "경제",
-    "tags": "\"[“금융”,”재테크”]\"",
+    "tags": [
+      "금융",
+      "재테크"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -328,9 +415,11 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/30715",
     "sendingTerm": "10 days",
     "sendingNumber": "1",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "문화",
-    "tags": "[“콘텐츠”]",
+    "tags": [
+      "콘텐츠"
+    ],
     "sampleLetterLink": "https://www.notion.so/_-15c98a642b694b38b25272cc660c1a4e",
     "lang": "ko",
     "isChecked": "true"
@@ -342,9 +431,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/61665",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Fri”]",
+    "sendingDay": [
+      "Fri"
+    ],
     "categories": "문화",
-    "tags": "[“책”]",
+    "tags": [
+      "책"
+    ],
     "sampleLetterLink": "https://www.notion.so/Egg-Break-s-house-815443c0520541e1a775f0441db9bcfa",
     "lang": "ko",
     "isChecked": "true"
@@ -356,9 +449,11 @@
     "subscriptionLink": "https://www.bookjournalism.com/newsletter?mwr=7ba55397",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "문화",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "false"
@@ -370,9 +465,15 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/106246",
     "sendingTerm": "",
     "sendingNumber": "",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "경제",
-    "tags": "\"[“금융”,”재테크”,”부동산”,”부업”,”암호화폐”]\"",
+    "tags": [
+      "금융",
+      "재테크",
+      "부동산",
+      "부업",
+      "암호화폐"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "false"
@@ -384,9 +485,11 @@
     "subscriptionLink": "https://incizor.com/Newsletter",
     "sendingTerm": "daily",
     "sendingNumber": "1",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "경제",
-    "tags": "\"[“금융\"\"]\"",
+    "tags": [
+      "금융"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "false"
@@ -398,9 +501,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/69711",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Wed”]",
+    "sendingDay": [
+      "Wed"
+    ],
     "categories": "문화",
-    "tags": "[“음식”]",
+    "tags": [
+      "음식"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -412,9 +519,13 @@
     "subscriptionLink": "https://mailchi.mp/37b398c233e7/oddity-station-by-space-oddity",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "문화",
-    "tags": "[“음악”]",
+    "tags": [
+      "음악"
+    ],
     "sampleLetterLink": "https://us12.campaign-archive.com/home/?u=b8884d9c803717ac5a17fbdaa&id=b7b9db50fe",
     "lang": "ko",
     "isChecked": "true"
@@ -426,9 +537,13 @@
     "subscriptionLink": "https://publy.us11.list-manage.com/subscribe?u=8e469b932eaa730d3a89bc869&id=f64c75daf2",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Fri”]",
+    "sendingDay": [
+      "Fri"
+    ],
     "categories": "라이프스타일",
-    "tags": "[”자기계발”]",
+    "tags": [
+      "자기계발"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -440,9 +555,12 @@
     "subscriptionLink": "https://docs.google.com/forms/d/e/1FAIpQLSeyuIRpTwvunCDKiNRugBLM9PztJ-AZmmJe1KJ_thrAe7emDw/viewform",
     "sendingTerm": "weekly",
     "sendingNumber": "1~2",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "과학과 기술",
-    "tags": "\"[“블록체인”,”암호화폐”]\"",
+    "tags": [
+      "블록체인",
+      "암호화폐"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -454,9 +572,11 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/51239",
     "sendingTerm": "",
     "sendingNumber": "",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "라이프스타일",
-    "tags": "[“할머니”]",
+    "tags": [
+      "할머니"
+    ],
     "sampleLetterLink": "https://linktr.ee/harmonyletter",
     "lang": "ko",
     "isChecked": "false"
@@ -468,9 +588,14 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/33439",
     "sendingTerm": "weekly",
     "sendingNumber": "2",
-    "sendingDay": "\"[“Mon”,\"\"Thu\"\"]\"",
+    "sendingDay": [
+      "Mon",
+      "Thu"
+    ],
     "categories": "문화",
-    "tags": "\"[“콘텐츠\"\"]\"",
+    "tags": [
+      "콘텐츠"
+    ],
     "sampleLetterLink": "https://stibee.com/api/v1.0/emails/share/_kSh8-keWKtWwkQ01B0Eu0P09mDe9A==",
     "lang": "ko",
     "isChecked": "true"
@@ -482,9 +607,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/50582",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "\"[“Wed\"\"]\"",
+    "sendingDay": [
+      "Wed"
+    ],
     "categories": "라이프스타일",
-    "tags": "[“공간”]",
+    "tags": [
+      "공간"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -496,9 +625,17 @@
     "subscriptionLink": "https://outstanding.us1.list-manage.com/subscribe?u=58649932600b1a93ad942d0a7&id=546a6b6aba",
     "sendingTerm": "weekly",
     "sendingNumber": "5",
-    "sendingDay": "\"[“Mon”,”Tue”,”Wed”,”Thu”,”Fri”]\"",
+    "sendingDay": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
     "categories": "과학과 기술",
-    "tags": "[“IT”]",
+    "tags": [
+      "IT"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -510,9 +647,14 @@
     "subscriptionLink": "https://www.notion.so/PPO-SIC-3d6f4b7e0847481c87277376b944208d",
     "sendingTerm": "weekly",
     "sendingNumber": "2",
-    "sendingDay": "\"[“Mon”,”Thu\"\"]\"",
+    "sendingDay": [
+      "Mon",
+      "Thu"
+    ],
     "categories": "커리어",
-    "tags": "[“실무”]",
+    "tags": [
+      "실무"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -524,9 +666,12 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/52057",
     "sendingTerm": "weekly",
     "sendingNumber": "2",
-    "sendingDay": "\"[“Tue”,”Fri”]\"",
+    "sendingDay": [
+      "Tue",
+      "Fri"
+    ],
     "categories": "뉴스",
-    "tags": "",
+    "tags": [],
     "sampleLetterLink": "https://coffeepot.me/",
     "lang": "ko",
     "isChecked": "true"
@@ -538,9 +683,13 @@
     "subscriptionLink": "https://mailchi.mp/9e0e525bc03b/summercandy/#brunchintroduce",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Wed”]",
+    "sendingDay": [
+      "Wed"
+    ],
     "categories": "문화",
-    "tags": "[“개인의 취향”]",
+    "tags": [
+      "개인의 취향"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -552,9 +701,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/49517",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Wed”]",
+    "sendingDay": [
+      "Wed"
+    ],
     "categories": "문화",
-    "tags": "[“개인의 취향”]",
+    "tags": [
+      "개인의 취향"
+    ],
     "sampleLetterLink": "https://www.notion.so/daisy611/J-d3ef9dc886d746e8b65343036f059300",
     "lang": "ko",
     "isChecked": "true"
@@ -566,9 +719,14 @@
     "subscriptionLink": "https://mypetlife.co.kr/subscribe/",
     "sendingTerm": "weekly",
     "sendingNumber": "2",
-    "sendingDay": "\"[“Wed”,”Fri”]\"",
+    "sendingDay": [
+      "Wed",
+      "Fri"
+    ],
     "categories": "라이프스타일",
-    "tags": "[“반려동물”]",
+    "tags": [
+      "반려동물"
+    ],
     "sampleLetterLink": "https://us17.campaign-archive.com/home/?u=b41507f1f17cbe76293cde76c&id=5dae4e2094",
     "lang": "ko",
     "isChecked": "true"
@@ -580,9 +738,13 @@
     "subscriptionLink": "https://mailchi.mp/657ce4880fff/otrnewsletter",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "\"[“Tue\"\"]\"",
+    "sendingDay": [
+      "Tue"
+    ],
     "categories": "사회",
-    "tags": "[“교육”]",
+    "tags": [
+      "교육"
+    ],
     "sampleLetterLink": "https://us18.campaign-archive.com/home/?u=032174c6f9f9e9c9630557ef1&id=84b8365d0f",
     "lang": "ko",
     "isChecked": "true"
@@ -594,9 +756,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/65210",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Sun”]",
+    "sendingDay": [
+      "Sun"
+    ],
     "categories": "문화",
-    "tags": "\"[\"\"개인의 취향”]\"",
+    "tags": [
+      "개인의 취향"
+    ],
     "sampleLetterLink": "https://lnky.in/mangossupermarket",
     "lang": "ko",
     "isChecked": "true"
@@ -608,9 +774,13 @@
     "subscriptionLink": "https://hyuni.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fhyuni.substack.com%2F",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Sun”]",
+    "sendingDay": [
+      "Sun"
+    ],
     "categories": "커리어",
-    "tags": "[“비즈니스”]",
+    "tags": [
+      "비즈니스"
+    ],
     "sampleLetterLink": "https://hyuni.substack.com/",
     "lang": "ko",
     "isChecked": "true"
@@ -622,9 +792,13 @@
     "subscriptionLink": "https://hur.substack.com/subscribe?utm_source=menu&simple=true&next=https%3A%2F%2Fhur.substack.com%2F",
     "sendingTerm": "biweekly",
     "sendingNumber": "",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "과학과 기술",
-    "tags": "\"[“테크”, “스타트업”, “VC”]\"",
+    "tags": [
+      "테크",
+      "스타트업",
+      "VC"
+    ],
     "sampleLetterLink": "https://hur.substack.com/",
     "lang": "ko",
     "isChecked": "true"
@@ -636,9 +810,13 @@
     "subscriptionLink": "https://video-jockey.com/",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Fri”]",
+    "sendingDay": [
+      "Fri"
+    ],
     "categories": "문화",
-    "tags": "[“콘텐츠”]",
+    "tags": [
+      "콘텐츠"
+    ],
     "sampleLetterLink": "https://video-jockey.com/archive",
     "lang": "ko",
     "isChecked": "true"
@@ -650,9 +828,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/50327",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Fri”]",
+    "sendingDay": [
+      "Fri"
+    ],
     "categories": "문화",
-    "tags": "\"[“음식\"\"]\"",
+    "tags": [
+      "음식"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -664,9 +846,13 @@
     "subscriptionLink": "https://page.stibee.com/subscriptions/59924",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Sun”]",
+    "sendingDay": [
+      "Sun"
+    ],
     "categories": "문화",
-    "tags": "[“글”]",
+    "tags": [
+      "글"
+    ],
     "sampleLetterLink": "https://page.stibee.com/archives/59924",
     "lang": "ko",
     "isChecked": "true"
@@ -678,9 +864,11 @@
     "subscriptionLink": "https://eunhamansion.com/form",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "문화",
-    "tags": "[“개인의 취향”]",
+    "tags": [
+      "개인의 취향"
+    ],
     "sampleLetterLink": "https://www.notion.so/3fab1d84b6cd4654b6e964f23b362c47?v=c54c17ff83414064800bc0f1562bcd6c",
     "lang": "ko",
     "isChecked": "true"
@@ -692,9 +880,15 @@
     "subscriptionLink": "https://stonebc.com/newsletter",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": "[“Thu”]",
+    "sendingDay": [
+      "Thu"
+    ],
     "categories": "커리어",
-    "tags": "\"[“비즈니스”,”마케팅”,”트렌드”]\"",
+    "tags": [
+      "비즈니스",
+      "마케팅",
+      "트렌드"
+    ],
     "sampleLetterLink": "",
     "lang": "ko",
     "isChecked": "true"
@@ -706,9 +900,11 @@
     "subscriptionLink": "https://feedburner.google.com/fb/a/mailverify?uri=GaeraeBlog",
     "sendingTerm": "monthly",
     "sendingNumber": "1",
-    "sendingDay": "",
+    "sendingDay": [],
     "categories": "과학과 기술",
-    "tags": "[“IT”]",
+    "tags": [
+      "IT"
+    ],
     "sampleLetterLink": "https://blog.gaerae.com/search/label/newsletter",
     "lang": "ko",
     "isChecked": "true"
