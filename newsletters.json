@@ -1290,29 +1290,22 @@
   {
     "id": "70",
     "title": "미지의 일상",
-    "description": "\"'미지의 일상' 프로젝트(비공개 초대) ❤️\n✔️여행이 유일한 낙(즐거움"
-  },
-  {
-    "id": " 樂)이었던 우리의 일상을 다양한 낙(즐거움"
-  },
-  {
-    "id": " 樂)으로 채우자.!\n✔️우리들의 일상에서의 낙(즐거움"
-  },
-  {
-    "id": " 樂)을 발견하고 공유하는 프로젝트\n✔️여태껏 알지 못했던 미지(未知)의 일상을 통해 낙(樂)이 있는 일상을 살 수 있도록\"",
-    "title": "https://page.stibee.com/subscriptions/78279",
-    "description": "weekly",
-    "subscriptionLink": "1",
-    "sendingTerm": "Thu",
-    "sendingNumber": "lifestyle",
+    "description": "\"'미지의 일상' 프로젝트(비공개 초대) ❤️\n✔️여행이 유일한 낙(즐거움; 樂)이었던 우리의 일상을 다양한 낙(즐거움; 樂)으로 채우자.!\n✔️우리들의 일상에서의 낙(즐거움; 樂)을 발견하고 공유하는 프로젝트\n✔️여태껏 알지 못했던 미지(未知)의 일상을 통해 낙(樂)이 있는 일상을 살 수 있도록\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/78279",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
     "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
       "일상",
       "즐거움",
       "새로움"
     ],
-    "categoriesCode": "https://www.notion.so/madxcompany/b41ec2bbfe7e4191ac53cd43a86756dd",
-    "tags": [],
-    "sampleLetterLink": ""
+    "sampleLetterLink": "https://www.notion.so/madxcompany/b41ec2bbfe7e4191ac53cd43a86756dd",
+    "lang": "",
+    "isChecked": ""
   },
   {
     "id": "71",

@@ -31,7 +31,7 @@ function processFile() {
   //When the file finish load
   reader.onload = function (event) {
     let csv = event.target.result;
-    let rows = csv.split(';');
+    let rows = csv.split(';;');
 
     for (let i = 0; i < rows.length; i++) {
       cols = rows[i].split('||');
