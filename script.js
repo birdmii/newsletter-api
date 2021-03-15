@@ -44,7 +44,7 @@ function processFile() {
         if (i === 0) {
           header[j] = value;
         } else {
-          if(j === 6 || j === 9) {
+          if(j === 6 || j === 8) {
             value = makeCharToArr(value)
           }
           obj[header[j]] = value;

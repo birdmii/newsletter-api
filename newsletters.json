@@ -10,7 +10,6 @@
       "Thu"
     ],
     "categoriesCode": "design",
-    "categories": "디자인",
     "tags": [
       "해외 아티클"
     ],
@@ -29,7 +28,6 @@
       "Wed"
     ],
     "categoriesCode": "design",
-    "categories": "디자인",
     "tags": [
       "국내 아티클"
     ],
@@ -48,7 +46,6 @@
       "Thu"
     ],
     "categoriesCode": "news",
-    "categories": "뉴스",
     "tags": [
       "트렌드"
     ],
@@ -67,9 +64,9 @@
       "Tue"
     ],
     "categoriesCode": "news",
-    "categories": "뉴스",
     "tags": [
-      "트렌드"
+      "트렌드",
+      "MZ세대"
     ],
     "sampleLetterLink": "",
     "lang": "ko",
@@ -86,7 +83,6 @@
       "Tue"
     ],
     "categoriesCode": "marketing",
-    "categories": "마케팅",
     "tags": [
       "트렌드"
     ],
@@ -105,7 +101,6 @@
       "Fri"
     ],
     "categoriesCode": "marketing",
-    "categories": "마케팅",
     "tags": [
       "콘텐츠"
     ],
@@ -123,8 +118,7 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "news",
-    "categories": "뉴스",
+    "categoriesCode": "lifestyle",
     "tags": [
       "브랜드",
       "트렌드"
@@ -144,7 +138,6 @@
       "Fri"
     ],
     "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
     "tags": [
       "취향",
       "소비",
@@ -165,7 +158,6 @@
       "Mon"
     ],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
       "스타트업"
     ],
@@ -182,7 +174,6 @@
     "sendingNumber": "2",
     "sendingDay": [],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
       "여성"
     ],
@@ -201,7 +192,6 @@
       "Fri"
     ],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
       "스타트업"
     ],
@@ -211,7 +201,7 @@
   },
   {
     "id": "12",
-    "title": "빌라선샤인",
+    "title": "디어뉴먼",
     "description": "\"일하는 밀레니얼 여성을 위한 커뮤니티, 빌라선샤인의 뉴스레터 [디어뉴먼]입니다. 지금 일하는 여성들이 관심 갖는 주제, 뉴스, 콘텐츠에 대한 이야기와 빌라선샤인 소식을 받아볼 수 있어요. 우리, 매주 화요일에 만나요!\"",
     "subscriptionLink": "https://page.stibee.com/subscriptions/54236",
     "sendingTerm": "weekly",
@@ -220,9 +210,9 @@
       "Tue"
     ],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
-      "밀레니얼"
+      "밀레니얼",
+      "여성"
     ],
     "sampleLetterLink": "",
     "lang": "ko",
@@ -239,7 +229,6 @@
       "Mon"
     ],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
       "스타트업"
     ],
@@ -258,7 +247,6 @@
       "Thu"
     ],
     "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
     "tags": [
       "자기계발"
     ],
@@ -277,7 +265,6 @@
       "Thu"
     ],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
       "직장인"
     ],
@@ -296,7 +283,6 @@
       "Wed"
     ],
     "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
     "tags": [
       "자기계발"
     ],
@@ -317,7 +303,6 @@
       "Fri"
     ],
     "categoriesCode": "news",
-    "categories": "뉴스",
     "tags": [
       "뉴스 브리핑"
     ],
@@ -341,7 +326,6 @@
       "Sat"
     ],
     "categoriesCode": "news",
-    "categories": "뉴스",
     "tags": [
       "뉴스 브리핑"
     ],
@@ -358,7 +342,6 @@
     "sendingNumber": "1",
     "sendingDay": [],
     "categoriesCode": "news",
-    "categories": "뉴스",
     "tags": [
       "뉴스 브리핑"
     ],
@@ -377,7 +360,6 @@
       "Thu"
     ],
     "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
     "tags": [
       "자아탐구"
     ],
@@ -396,9 +378,9 @@
       "Mon"
     ],
     "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
     "tags": [
-      "자아탐구"
+      "자아탐구",
+      "고민"
     ],
     "sampleLetterLink": "",
     "lang": "ko",
@@ -419,10 +401,10 @@
       "Fri"
     ],
     "categoriesCode": "economy",
-    "categories": "경제",
     "tags": [
       "금융",
-      "재테크"
+      "재테크",
+      "사회초년생"
     ],
     "sampleLetterLink": "https://www.notion.so/7a061d7564a24f2d8c30684dc3fec120",
     "lang": "ko",
@@ -439,7 +421,6 @@
       "Thu"
     ],
     "categoriesCode": "economy",
-    "categories": "경제",
     "tags": [
       "금융",
       "재테크"
@@ -457,7 +438,6 @@
     "sendingNumber": "1",
     "sendingDay": [],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
       "콘텐츠"
     ],
@@ -476,7 +456,6 @@
       "Fri"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
       "책"
     ],
@@ -495,7 +474,6 @@
       "Thu"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
       "혁신가"
     ],
@@ -512,7 +490,6 @@
     "sendingNumber": "",
     "sendingDay": [],
     "categoriesCode": "economy",
-    "categories": "경제",
     "tags": [
       "재테크",
       "부동산",
@@ -531,7 +508,6 @@
     "sendingNumber": "1",
     "sendingDay": [],
     "categoriesCode": "economy",
-    "categories": "경제",
     "tags": [
       "금융",
       "투자"
@@ -543,7 +519,7 @@
   {
     "id": "29",
     "title": "빵슐랭 가이드",
-    "description": "빵 덕후’ 현직 기자가 쓰는 빵집 큐레이팅 뉴스레터",
+    "description": "‘빵 덕후’ 현직 기자가 쓰는 빵집 큐레이팅 뉴스레터",
     "subscriptionLink": "https://page.stibee.com/subscriptions/69711",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
@@ -551,8 +527,8 @@
       "Wed"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
+      "빵",
       "음식"
     ],
     "sampleLetterLink": "",
@@ -570,7 +546,6 @@
       "Thu"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
       "음악"
     ],
@@ -588,10 +563,11 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
+    "categoriesCode": "career",
     "tags": [
-      "자기계발"
+      "자기계발",
+      "생산성",
+      "비즈니스"
     ],
     "sampleLetterLink": "",
     "lang": "ko",
@@ -606,7 +582,6 @@
     "sendingNumber": "1~2",
     "sendingDay": [],
     "categoriesCode": "sci-tech",
-    "categories": "과학과 기술",
     "tags": [
       "블록체인",
       "암호화폐"
@@ -624,7 +599,6 @@
     "sendingNumber": "",
     "sendingDay": [],
     "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
     "tags": [
       "할머니"
     ],
@@ -644,7 +618,6 @@
       "Thu"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
       "콘텐츠"
     ],
@@ -663,9 +636,10 @@
       "Wed"
     ],
     "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
     "tags": [
-      "공간"
+      "공간",
+      "도시",
+      "사람"
     ],
     "sampleLetterLink": "",
     "lang": "ko",
@@ -686,7 +660,6 @@
       "Fri"
     ],
     "categoriesCode": "sci-tech",
-    "categories": "과학과 기술",
     "tags": [
       "IT"
     ],
@@ -706,7 +679,6 @@
       "Thu"
     ],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
       "실무"
     ],
@@ -726,7 +698,6 @@
       "Fri"
     ],
     "categoriesCode": "news",
-    "categories": "뉴스",
     "tags": [
       "해외 비즈니스"
     ],
@@ -745,9 +716,10 @@
       "Wed"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
-      "개인의 취향"
+      "개인의 취향",
+      " 음악",
+      " 읽을거리"
     ],
     "sampleLetterLink": "",
     "lang": "ko",
@@ -764,9 +736,10 @@
       "Wed"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
-      "개인의 취향"
+      "개인의 취향",
+      "콘텐츠",
+      "마케터"
     ],
     "sampleLetterLink": "https://www.notion.so/daisy611/J-d3ef9dc886d746e8b65343036f059300",
     "lang": "ko",
@@ -784,7 +757,6 @@
       "Fri"
     ],
     "categoriesCode": "lifestyle",
-    "categories": "라이프스타일",
     "tags": [
       "반려동물"
     ],
@@ -803,7 +775,6 @@
       "Tue"
     ],
     "categoriesCode": "society",
-    "categories": "사회",
     "tags": [
       "교육"
     ],
@@ -822,9 +793,9 @@
       "Sun"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
-      "개인의 취향"
+      "개인의 취향",
+      "일상"
     ],
     "sampleLetterLink": "https://lnky.in/mangossupermarket",
     "lang": "ko",
@@ -841,9 +812,9 @@
       "Sun"
     ],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
-      "비즈니스"
+      "비즈니스",
+      "투자"
     ],
     "sampleLetterLink": "https://hyuni.substack.com/",
     "lang": "ko",
@@ -858,7 +829,6 @@
     "sendingNumber": "",
     "sendingDay": [],
     "categoriesCode": "sci-tech",
-    "categories": "과학과 기술",
     "tags": [
       "테크",
       "스타트업",
@@ -879,9 +849,10 @@
       "Fri"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
-      "콘텐츠"
+      "콘텐츠",
+      "영화",
+      "드라마"
     ],
     "sampleLetterLink": "https://video-jockey.com/archive",
     "lang": "ko",
@@ -898,7 +869,6 @@
       "Fri"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
       "음식"
     ],
@@ -917,7 +887,6 @@
       "Sun"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
       "글"
     ],
@@ -936,7 +905,6 @@
       "Fri"
     ],
     "categoriesCode": "culture",
-    "categories": "문화",
     "tags": [
       "개인의 취향"
     ],
@@ -955,7 +923,6 @@
       "Thu"
     ],
     "categoriesCode": "career",
-    "categories": "커리어",
     "tags": [
       "비즈니스",
       "마케팅",
@@ -973,13 +940,941 @@
     "sendingTerm": "monthly",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "develop",
-    "categories": "개발",
+    "categoriesCode": "sci-tech",
     "tags": [
-      "IT"
+      "IT",
+      "개발자"
     ],
     "sampleLetterLink": "https://blog.gaerae.com/search/label/newsletter",
     "lang": "ko",
     "isChecked": "true"
+  },
+  {
+    "id": "52",
+    "title": "대학내일",
+    "description": "밀레니얼-Z세대에 관심 있는 분들을 위한 뉴스레터입니다. MZ 타깃 마케팅 에이전시 대학내일이 현장에서 보고 들은 인사이트를 한 달에 2번 당신의 메일함에 던져 넣습니다. 이미 이 페이지를 보시는 분들은 구독을 하시러 온 것이니 감사하고요. 보시고 괜찮으면 주변에도 추천해주세요.",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/28770",
+    "sendingTerm": "monthly",
+    "sendingNumber": "2",
+    "sendingDay": [],
+    "categoriesCode": "news",
+    "tags": [
+      "MZ세대",
+      "대학생"
+    ],
+    "sampleLetterLink": "",
+    "lang": "ko",
+    "isChecked": "true"
+  },
+  {
+    "id": "53",
+    "title": "폴인 fol:in",
+    "description": "\"나의 내일을 위한 지식 플랫폼, 폴인 뉴스레터를 구독하세요!\n✔ 에디터's 비하인드노트\n✔ 꼭 읽어볼만한 이번 주의 인사이트\n✔ 폴인의 새 소식 (이벤트, 신규 스토리북 소식 등)\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/26887",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "사람",
+      "인사이트",
+      "트렌드"
+    ],
+    "sampleLetterLink": "",
+    "lang": "ko",
+    "isChecked": ""
+  },
+  {
+    "id": "54",
+    "title": "뭐라노",
+    "description": "\"뭐라노 뉴스세줄요약국제신문 디지털콘텐츠를 구독하세요!!\n평소에 기사 읽기 너무힘들지 않나요?.너무 길거나 어렵진 않나요?'뭐라노'는 이런 분들을 위해 탄생했습니다.\"",
+    "subscriptionLink": "http://www.kookje.co.kr/contents/subscribe.htm",
+    "sendingTerm": "daily",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "news",
+    "tags": [
+      "이슈",
+      "뉴스 브리핑",
+      "국제신문"
+    ],
+    "sampleLetterLink": "",
+    "lang": "ko",
+    "isChecked": ""
+  },
+  {
+    "id": "55",
+    "title": "휘클리",
+    "description": "\"일주일에 한번, 뉴스 언박싱.\n펄럭이는 종이신문도, 포털의 알고리즘도 부담일 땐\n10분 뉴스편지, 시사 뉴스레터 <휘클리>와 함께 하세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/98338",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "시사",
+      "한겨레"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/98338",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "56",
+    "title": "뉴잼",
+    "description": "\"바쁜 일상, 넘치는 정보, 똑같은 뉴스에 지치셨나요? 핵심만 쏙쏙 뽑은 유용한 뉴스, 남다른 이야기를 매주 화요일과 금요일 배달해드립니다. \"",
+    "subscriptionLink": "https://www.hankookilbo.com/NewsLetter/NewsJam",
+    "sendingTerm": "weekly",
+    "sendingNumber": "2",
+    "sendingDay": [
+      "Tue",
+      "Fri"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "뉴스 브리핑",
+      "이야기",
+      "한국일보"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "57",
+    "title": "팩플레터",
+    "description": "\"'테크와 나의 삶', '테크/혁신 기업의 미래'가 궁금한 당신을 위한 뉴스레터 '팩플레터'입니다.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/73985",
+    "sendingTerm": "weekly",
+    "sendingNumber": "",
+    "sendingDay": [
+      "Tue"
+    ],
+    "categoriesCode": "sci-tech",
+    "tags": [
+      "테크 이슈",
+      "중앙일보"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "58",
+    "title": "미라클레터",
+    "description": "\"\"\"혁신하는 이들을 위한\"\" 미라클레터입니다 📧\n매경미디어그룹에서 테크 트렌드, 글로벌 트렌드, 실리콘밸리 현장 소식을 인사이트 있게 담아서, 주3회 오전 6~9시에 이메일로 보내드리고 있어요. \"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/33271",
+    "sendingTerm": "weekly",
+    "sendingNumber": "3",
+    "sendingDay": [],
+    "categoriesCode": "sci-tech",
+    "tags": [
+      "테크 트렌드",
+      "실리콘밸리",
+      "매일경제"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "59",
+    "title": "업클",
+    "description": "\"5분 만에 하루가 보입니다오늘 하루가 궁금하세요?시사 뉴스레터 ‘업클’\"",
+    "subscriptionLink": "https://upcle.me/",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "news",
+    "tags": [
+      "뉴스 브리핑",
+      "오늘의 이슈"
+    ],
+    "sampleLetterLink": "https://upcle.me/archives/category/newsletter",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "60",
+    "title": "마부뉴스",
+    "description": "\"데이터로 보는 뉴스의 맥락마부작침 뉴스레터데이터 저널리즘팀 <마부작침>이 도끼를 갈아 바늘을 만드는 정성으로 뉴스레터 서비스를 시작합니다. 데이터로 뉴스의 맥락을 파악하는 ‘마부뉴스’. 매주 당신의 뉴스에 엣지를 더하겠습니다. 놓치지 마세요. 목요일에 만나요!\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/56136",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "이슈",
+      "SBS"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/56136",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "61",
+    "title": "퍼블리랜서",
+    "description": "\"출판하는 사람들의 소식이 한 달에 한 번 여러분을 찾아갑니다. 치열하게 꿈꾸고, 아름답게 일하며, 따뜻하게 모여요 :)\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/55547",
+    "sendingTerm": "monthly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "categoriesCode": "culture",
+    "tags": [
+      "출판"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "62",
+    "title": "일분톡",
+    "description": "\"테크레터 일분톡읽다보면 1분넘는세상쉬운 테크이야기매주 월목에 만나요!\"",
+    "subscriptionLink": "http://ilbuntok.com/",
+    "sendingTerm": "weekly",
+    "sendingNumber": "2",
+    "sendingDay": [
+      "Mon",
+      "Thu"
+    ],
+    "categoriesCode": "sci-tech",
+    "tags": [
+      "테크"
+    ],
+    "sampleLetterLink": "https://us4.campaign-archive.com/home/?u=fac734f2470934a937f9d902c&id=0fd8d1e102",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "63",
+    "title": "앨리스모먼트",
+    "description": "함께 보면 재미있는 이슈를 공유하는 위클리 뉴스레터 서비스입니다",
+    "subscriptionLink": "https://alicemedia.co/1d9f3dfb28654fa8a6d670fdaa40566f",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "이슈"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "64",
+    "title": "틈틈이",
+    "description": "\"안녕하세요!\n좋으니까 나누고 싶은 마음으로, 취향 나눔 뉴스레터 ‘틈틈이’입니다 👋\n'틈틈이' 는 글쓰기 모임 ‘로스트앤파운드’에서 격주 목요일마다 보내드리는 콘텐츠 소개/리뷰 뉴스레터입니다. 책, 영화, 팟캐스트, 넷플릭스, 왓챠, 유튜브 등 즐길 것이 너무나 많은 요즘, 저희가 일상에서 틈틈이 경험한 콘텐츠 중 좋은 것만 모아 여러분께 나눠 드릴게요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/52606",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "개인의 취향",
+      "콘텐츠",
+      "리뷰"
+    ],
+    "sampleLetterLink": "https://www.notion.so/lostandfound1738/20d04a65707441caa9d200af24b3d9db",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "65",
+    "title": "부딩",
+    "description": "\"내 집 마련을 위한 3분 \n부.알.못 밀레니얼을 위한\n구독형 부동산 뉴스레터, 부딩\n 매주 월·목요일 아침\n어려운 부동산 이슈를 \n 가장 쉬운 언어로 보내드립니다. \n\"",
+    "subscriptionLink": "https://www.booding.co/",
+    "sendingTerm": "weekly",
+    "sendingNumber": "2",
+    "sendingDay": [
+      "Mon",
+      "Thu"
+    ],
+    "categoriesCode": "economy",
+    "tags": [
+      "부동산"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "66",
+    "title": "EFG",
+    "description": "\"👀 비주류의 이야기를 전하는 마이너리티 미디어, EFG\n📢 뉴스에서 잘 다루지 않는 환경, 인권, 동식물권 등 마이너 이슈를 다룹니다.\n🤝 삶은 혼자가 아닌 함께의 이야기니까 :)\n💌 매주 월요일, 우리가 놓치고 있던 마이너 이슈들을 보내드려요! 👇👇👇\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/58675",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "society",
+    "tags": [
+      "환경",
+      "인권",
+      "마이너 이슈"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "67",
+    "title": "두부",
+    "description": "\"🏡 안녕하세요, 두부입니다.\nDuBu는 내집마련 부린이를 위한 내집레터 구독 서비스입니다.너 'Do 부'동산 할 수 있어!\n세상 쉬운 두부니까, 두부를 만만하게 읽어주세요! 매주 화요일 찾아갑니다.\n\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/98179?groupIds=73628",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Tue"
+    ],
+    "categoriesCode": "economy",
+    "tags": [
+      "부동산",
+      "투자"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "68",
+    "title": "더슬랭",
+    "description": "\"수천 명의 아침과 함께하는 모닝 뉴스레터 서비스.\n당신의 삶에 관련된 다양한 사건과 정보들을 만나보세요!더슬랭 뉴스레터. 월 – 수 – 금.\n\"",
+    "subscriptionLink": "https://theslang.co/",
+    "sendingTerm": "weekly",
+    "sendingNumber": "3",
+    "sendingDay": [
+      "Mon",
+      "Wed",
+      "Fri"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "이슈",
+      "시사"
+    ],
+    "sampleLetterLink": "https://theslang.co/27",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "69",
+    "title": "주말랭이",
+    "description": "\"이번 주말엔 뭐할랭~\n고민되는 바로 그 순간, 핫한 놀거리 잔뜩 들고 당신의 메일함을 찾아갈게요.\n우리들의 주말은 작고 소중하니까\n매주 금요일 오전 8시에 만나요 💌\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/78183",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Fri"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "주말",
+      "핫플",
+      "집콕"
+    ],
+    "sampleLetterLink": "https://www.notion.so/2937e3e4f9884521a79198eac3cd07ef",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "70",
+    "title": "미지의 일상",
+    "description": "\"'미지의 일상' 프로젝트(비공개 초대) ❤️\n✔️여행이 유일한 낙(즐거움"
+  },
+  {
+    "id": " 樂)이었던 우리의 일상을 다양한 낙(즐거움"
+  },
+  {
+    "id": " 樂)으로 채우자.!\n✔️우리들의 일상에서의 낙(즐거움"
+  },
+  {
+    "id": " 樂)을 발견하고 공유하는 프로젝트\n✔️여태껏 알지 못했던 미지(未知)의 일상을 통해 낙(樂)이 있는 일상을 살 수 있도록\"",
+    "title": "https://page.stibee.com/subscriptions/78279",
+    "description": "weekly",
+    "subscriptionLink": "1",
+    "sendingTerm": "Thu",
+    "sendingNumber": "lifestyle",
+    "sendingDay": [
+      "일상",
+      "즐거움",
+      "새로움"
+    ],
+    "categoriesCode": "https://www.notion.so/madxcompany/b41ec2bbfe7e4191ac53cd43a86756dd",
+    "tags": [],
+    "sampleLetterLink": ""
+  },
+  {
+    "id": "71",
+    "title": "\"안녕, 시골\"",
+    "description": "\"매주 금요일 아침\n당신의 메일함으로 시골 이야기를 보내드립니다.\n지친 한 주의 끝에\n떠올리기만 해도 좋은 정겹고 편안한 공간과\n그곳에 사는 사람들의 이야기를 만나보세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/74395",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Fri"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "시골",
+      "공간",
+      "사람"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "72",
+    "title": "마티의 각주*",
+    "description": "\"“마티의 각주”는 미처 책에 쓰지 못한 각주를 더하는 편지입니다. 한 권의 책을 만들기 위해 편집자가 들춰본 많은 책, 보고 들은 음악과 영상을 하나씩 풀어놓으려 합니다. 신간 소식과 새로 발견한 좋은 문장도 가장 먼저 전할게요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/74783",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "출판",
+      "책",
+      "콘텐츠"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/74783",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "73",
+    "title": "CFO Letter",
+    "description": "\"다양한 규모의 Start-up 업무경험을 통해 축적된 유용한 정보들을 저만의 방식으로 공유하려 합니다.\nCEO를 포함한 기업의 다양한 의사결정권자들에게 직접 편지를 보내는 마음으로 시작합니다.\n회계, 세무 및 재무관리 등 전문 영역의 지식과 경험들을 정리하는 시간이 될 것이고, 이런 정보들이 다른 사람들에게도 긍정적인 영향을 끼칠수 있으면 좋겠습니다.\"",
+    "subscriptionLink": "https://www.cfo-letter.com/index",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "categoriesCode": "career",
+    "tags": [
+      "회계",
+      "세무",
+      "재무관리"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "74",
+    "title": "트립쿠키",
+    "description": "\"\"\" 쿠키처럼 맛있게 먹는 호스피탈리티 뉴스레터 \"\"\n🍍호스피탈리티(Hospitality)\n여행/호텔/항공 등 관광·서비스 분야를 통틀어 이르는 단어.\n🖊️업계 소식 한 번에 쫙!\n귀찮게 여러 신문을 찾아다니지 마세요! 트립쿠키가 가볍게, 하지만 깊이 있게 업계 소식을 정리해드려요.\"",
+    "subscriptionLink": "http://tripcookie.me/",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "travel",
+    "tags": [
+      "여행",
+      "항공",
+      "숙박"
+    ],
+    "sampleLetterLink": "https://www.notion.so/14fe3c695a4649a2986edaea9884df2f",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "75",
+    "title": "더밀크 뷰스레터",
+    "description": "\"세상 변화의 중심\n실리콘밸리의 생생한 인사이트.\n앞서가는 사람들의 미디어\n더밀크를 지금 구독하세요.\"",
+    "subscriptionLink": "https://youtube.us4.list-manage.com/subscribe?u=e1e73f48c1c799f7aa2410f8d&id=0db1af86d0",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "news",
+    "tags": [
+      "실리콘밸리"
+    ],
+    "sampleLetterLink": "https://us4.campaign-archive.com/home/?u=e1e73f48c1c799f7aa2410f8d&id=0db1af86d0",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "76",
+    "title": "워브",
+    "description": "\"온라인 비즈니스 종합 정보 편지 워브(wob)매주 목요일 온라인 비즈니스에 대한 정보를 보내드려요.\n각자의 자리에서 바쁘게 살고 있는 여러분들에게온라인비즈니스를 위한 모든 정보를 매주 드리겠습니다.지하철&버스안에서, 사무실에서, 학교, 집에서당신의 온라인비즈니스 스킬이 성장하게 됩니다.\n\"",
+    "subscriptionLink": "https://mailchi.mp/d336b0cf01b1/wob",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "career",
+    "tags": [
+      "온라인 비즈니스"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "77",
+    "title": "온오프믹스",
+    "description": "\"매주 화요일\n온오프믹스 모임 소식이\n여러분을 찾아갑니다!\n온오프믹스는 원활한 소통과 만남을 위해 다양한 모임과\n이벤트 소식을 제공합니다. 선별된 모임을\n매주 이메일로 받아보세요🙂\n\"",
+    "subscriptionLink": "https://onoffmix.com/newsletter",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Tue"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "모임",
+      "이벤트"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "78",
+    "title": "씨로켓 레터",
+    "description": "\"뉴미디어 기반 콘텐츠/마케팅 커뮤니티\n씨로켓의 깊이가 다른 정보\n매주 받아보세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/55500",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "career",
+    "tags": [
+      "콘텐츠",
+      "마케팅",
+      "미디어"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/55500",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "79",
+    "title": "퇴사준비생의 여행",
+    "description": "\"<퇴사준비생의 여행>은 도쿄, 런던, 타이베이, 홍콩, 샌프란시스코 등 크리에이티브가 가득한 도시에서 찾은 비즈니스 인사이트를 제공합니다.\"",
+    "subscriptionLink": "https://travelcode.us17.list-manage.com/subscribe?u=1e4ea9076be6f5533721933d2&id=02136ff5a7",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "travel",
+    "tags": [
+      "여행",
+      "비즈니스",
+      "이슈"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "80",
+    "title": "순살브리핑",
+    "description": "\"모건스탠리 홍콩 출신 2인의 글로벌 금융·경제 뉴스 살코기\n월, 화, 수, 목, 금, 매일 아침 10시\n전 세계 금융·경제 뉴스 중 살코기만 발라드립니다!\n순살브리핑과 함께라면 모두 똑똑 👍\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/51845",
+    "sendingTerm": "weekly",
+    "sendingNumber": "5",
+    "sendingDay": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "글로벌 금융",
+      " 글로벌 경제"
+    ],
+    "sampleLetterLink": "https://soonsal.com/newsletters",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "81",
+    "title": "센서블박스 위클리",
+    "description": "\"매 주 월요일, 각종 창업 지원 프로그램과 데모데이 소식들을\n인간지능 큐레이터가 보기 쉽게 정리해 드립니다.\n\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/56823",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "career",
+    "tags": [
+      "창업",
+      "스타트업",
+      "데모데이"
+    ],
+    "sampleLetterLink": "https://sensible.kr/box",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "82",
+    "title": "어거스트",
+    "description": "\"지금을 읽고 싶은 사람들의 미디어 이야기, 어거스트\n매주 내용 가득한, 휘발되지 않는 뉴스레터 전달드리겠습니다 :)\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/51479",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Tue"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "미디어",
+      "트렌드"
+    ],
+    "sampleLetterLink": "https://www.notion.so/66aabc1324a046b98b4ef997df4f1227",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "83",
+    "title": "모야",
+    "description": "\"해외 주요 기업 뉴스를 한글로 번역해서 매일 보내드립니다.\n전문 번역사가 정확하게 번역한 글로벌 주요 기업 뉴스를 매일 받아볼 수 있습니다.\n\"",
+    "subscriptionLink": "https://www.wisetranslate.net/moya/global_news/newsletter#subscription",
+    "sendingTerm": "weekly",
+    "sendingNumber": "5",
+    "sendingDay": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "해외 뉴스",
+      "글로벌 기업"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "84",
+    "title": "스요레터",
+    "description": "\"여러분의 메일을 더 잘 읽히게 하고, 더 많은 사람들에게 연결하기 위해 오늘도 열일하는 스티비입니다. 메일함에서 스요레터를 찾아주세요! 알찬 뉴스레터, 이메일 마케팅 꿀팁을 가장 빠르게 전해드려요 ⚡\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/3",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "career",
+    "tags": [
+      "마케팅",
+      "크리에이터",
+      "읽을거리"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/3",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "85",
+    "title": "이벤트 레터",
+    "description": "\"행사에 대한 고민은 많지만, 오늘도 바쁜 당신을 위해 이벤터스에서 분야별 행사와 모임을\n한 눈에 모아 봤습니다. 놓쳐선 안 될 행사와 함께 여러분의 메일함을 살며시 두드릴게요.\n우리, 한 주의 문을 활짝 여는 매주 월요일 아침에 만나요 🙋‍♀️\n\"",
+    "subscriptionLink": "https://event-us.kr/l/NewsLetter",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "행사",
+      "모임",
+      "이벤트"
+    ],
+    "sampleLetterLink": "https://www.notion.so/EVENT-LETTER-b8bf340a45c1421abaf6091593cdec53",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "86",
+    "title": "오렌지레터",
+    "description": "\"오렌지레터, 이거 하나만 보세요!- 한 주간 당신이 혹시 놓쳤을지 모르는 소셜섹터 이슈- 소셜섹터 주요 행사와 이벤트, 펀딩, 채용, 모집, 공모사업- 당신의 일과 삶에 영감이 되어줄 솔루션과 인사이트\"",
+    "subscriptionLink": "https://slowalk.co.kr/orangeletter/#archive",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "소셜섹터",
+      "인터뷰",
+      "읽을거리"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "87",
+    "title": "술술레터",
+    "description": "\"맥주, 좋아하세요? (feat. 슬램덩크)\n그렇다면 ,수요일 오전 격주로 찾아가는 술술(읽히는 맥주)레터를 받아보세요.\n앞으로 더 맥주가 좋아질거예요! 😘\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/86847",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "맥주",
+      "수제맥주"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "88",
+    "title": "미스터동",
+    "description": "\"어디 가서 아는 척, 할 수 있는 정보월/수/금 매주 3번우리가 꼭 알아야 할 시사 상식을 오전 7시. 당신의 이메일로 전달합니다.\"",
+    "subscriptionLink": "https://mrdongnews.com/",
+    "sendingTerm": "weekly",
+    "sendingNumber": "3",
+    "sendingDay": [
+      "Mon",
+      "Wed",
+      "Fri"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "시사",
+      "상식"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "89",
+    "title": "빌리브",
+    "description": "\"빌리브 매거진은 “지금 좋아하는 곳에 살고 있나요?”라는 물음에 다가가기 위한 고민의 과정을 담은 미디어입니다.신세계건설은 좋은 집이 좋은 삶을 뜻할 수 있도록 집이라는 공간, 그리고 그 공간에 있는 사람에 대해서 세심하게 바라보려고 합니다.\n라이프스타일 주거브랜드 빌리브의 철학을 담은 전세계의 다양한 주거 라이프스타일을 매주 뉴스레터를 통해 전달해드립니다.\"",
+    "subscriptionLink": "https://villiv.co.kr/newsletter",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "주거",
+      "공간",
+      "집"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "90",
+    "title": "위키드 와인레터",
+    "description": "\"3분만에 와인전문가가 되는 법, 위키드 와인레터‘같이 먹고 마셨을 때 더 맛있는 일’을 연구하는 위키드는 지속가능한 와인컨텐츠를 제안하기 위해 온/오프라인 서비스를 만들어나가는 회사입니다. 단숨에 읽어내릴 수 있는 쉽고 재미있는 와인레터를 꾸준히 구독하다보면 어느새 와인전문가가 되어있는 나를 발견할 수 있을거에요! 최신 위키드 소식은 덤입니다. \"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/80149",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "culture",
+    "tags": [
+      "와인",
+      "음식"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "91",
+    "title": "SPREAD by B",
+    "description": "매거진 <B>가 큐레이션한 브랜드 이야기를 매주 전달합니다.",
+    "subscriptionLink": "https://magazine-b.co.kr/newsletter/",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "브랜드",
+      "마케팅"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "92",
+    "title": "Semtong",
+    "description": "\"국내 1위 성능 모니터링 회사이자, \n인공지능(AI), 빅데이터, 클라우드 기술로 각광받는 엑셈이 발행하는 뉴스레터 Semtong입니다.\n월 1회 회사 소식과 함께 시장에 대한 인사이트, IT 기술 이야기, 기술 동향 등 \nIT 업계에 대한 전반적인 소식을 확인할 수 있습니다. 매 달 진행되는 이벤트도 놓치지 마세요!\"",
+    "subscriptionLink": "https://ex-em.us17.list-manage.com/subscribe?u=93275d302c5a60aad1ee60cae&id=e11f5128f8",
+    "sendingTerm": "monthly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "categoriesCode": "sci-tech",
+    "tags": [
+      "IT"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "93",
+    "title": "모멘터리",
+    "description": "브랜드디자인과 텍스트를 이야기하는데 재미가 있어. 짜릿해. 뭐지.",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/65443",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "design",
+    "tags": [
+      "브랜딩"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "94",
+    "title": "일간 바이라인",
+    "description": "\"바이라인네트워크는 매일 아침 뉴스레터 ‘일간 바이라인’을 구독자 님들께 보내드립니다. 일반적으로 언론사의 뉴스레터는 전날 기사를 홍보하기 위한 수단입니다.\n그러나 일간 바이라인은 그렇지 않습니다. 일간 바이라인은 독자님들께 저희 기자들이 보내는 편지입니다.저희의 관심, 일상, 고민을 독자님들과 함께 나누고 싶어서 시작했습니다. \"",
+    "subscriptionLink": "https://byline.network/newsletter/",
+    "sendingTerm": "daily",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "news",
+    "tags": [
+      "IT",
+      "기술"
+    ],
+    "sampleLetterLink": "https://us18.campaign-archive.com/home/?u=bedb3ad13e513e25afa719b73&id=81db217913",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "95",
+    "title": "HR블레틴",
+    "description": "메일로 받아보는 일하는 방식에 대한 통찰과 아이디어",
+    "subscriptionLink": "https://hrbulletin.net/subscribe/",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "career",
+    "tags": [
+      "HR"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "96",
+    "title": "IMHR 뉴스레터",
+    "description": "\"더 나은 HR을 전하는 IMHR 뉴스레터.‘자주 묻는 질문’과 ‘HR 인사이트’로 나누어 월 2회 공유합니다.\"",
+    "subscriptionLink": "https://www.imhr.work/brand/hr-newsletter/",
+    "sendingTerm": "monthly",
+    "sendingNumber": "2",
+    "sendingDay": [],
+    "categoriesCode": "career",
+    "tags": [
+      "HR",
+      "실무"
+    ],
+    "sampleLetterLink": "https://us10.campaign-archive.com/home/?u=6ba6831445577be6202fb34a2&id=51a82e5f98",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "97",
+    "title": "콘텐타",
+    "description": "\"매주 목요일 4시! 최신 콘텐츠 마케팅 뉴스를 보내드립니다. 이메일로 편하게 받아보세요. \n\"",
+    "subscriptionLink": "https://contenta.us11.list-manage.com/subscribe?u=523d409bed29cb7c8ac20053e&id=a5236545a0",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "career",
+    "tags": [
+      "콘텐츠",
+      "마케팅"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "98",
+    "title": "큐레터",
+    "description": "\"마케터에게 한 조각의 아이디어를 더해드립니다. 마케팅 트렌드, 뉴스, 도서 정보를 보내드리는 큐레터를 지금 구독해주세요!\"",
+    "subscriptionLink": "https://www.i-boss.co.kr/ab-1917",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "career",
+    "tags": [
+      "마케팅"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "99",
+    "title": "바이트",
+    "description": "\"비즈니스 세상 5분 읽기\n꼭 알아야 할 비즈니스 뉴스의 흐름과 핵심적인 용어를\n가장 쉽게 설명하는 바이트 뉴스레터를 매일 만나보세요.\n\"",
+    "subscriptionLink": "http://mydailybyte.com/",
+    "sendingTerm": "daily",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "news",
+    "tags": [
+      "국내외",
+      "비즈니스",
+      "쉬운"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "100",
+    "title": "주간ㅅㅁㅅ",
+    "description": "\"매주 월요일 밤\n일상을 재료로 쓴 한 편의 글을 만나보세요.\n주간ㅅㅁㅅ은\n일상의 경험과 생각을 기록하고 공유하려 시작한\n주간 에세이 프로젝트 입니다.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/59737",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "에세이",
+      "경험",
+      "생각"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
   }
 ]
