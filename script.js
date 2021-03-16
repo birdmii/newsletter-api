@@ -37,6 +37,7 @@ function processFile() {
       cols = rows[i].split('||');
 
       let obj = {};
+      let requiredArr = [1, 3, 4, 7, 8]
       for (let j = 0; j < cols.length; j++) {
         // console.log(cols[j]);
         let value = escapeRegExp(cols[j]);
@@ -44,8 +45,16 @@ function processFile() {
         if (i === 0) {
           header[j] = value;
         } else {
+          if(requiredArr.includes(j) && value === '') {
+            console.error(obj[header[0]] + '(col '+ j +") : required item is empty.");
+          }
           if(j === 6 || j === 8) {
             value = makeCharToArr(value)
+          }
+          else if(j === 2) {
+            if(value.length > 202) {
+              console.error(obj[header[0]]+"-"+ obj[header[1]] + ":" + value.length);
+            }
           }
           obj[header[j]] = value;
         }
