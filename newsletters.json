@@ -715,7 +715,7 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
+    "categoriesCode": "lifestyle",
     "tags": [
       "개인의 취향",
       " 음악",
@@ -735,7 +735,7 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
+    "categoriesCode": "lifestyle",
     "tags": [
       "개인의 취향",
       "콘텐츠",
@@ -792,7 +792,7 @@
     "sendingDay": [
       "Sun"
     ],
-    "categoriesCode": "culture",
+    "categoriesCode": "lifestyle",
     "tags": [
       "개인의 취향",
       "일상"
@@ -906,7 +906,7 @@
     ],
     "categoriesCode": "culture",
     "tags": [
-      "개인의 취향"
+      "취향"
     ],
     "sampleLetterLink": "https://www.notion.so/3fab1d84b6cd4654b6e964f23b362c47?v=c54c17ff83414064800bc0f1562bcd6c",
     "lang": "ko",
@@ -1704,7 +1704,9 @@
     "subscriptionLink": "https://magazine-b.co.kr/newsletter/",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
-    "sendingDay": [],
+    "sendingDay": [
+      "Tue"
+    ],
     "categoriesCode": "lifestyle",
     "tags": [
       "브랜드",
@@ -1866,6 +1868,380 @@
       "생각"
     ],
     "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "101",
+    "title": "슬점",
+    "description": "\"당신의 슬기로운 점심시간을 위하여!\n오늘 점심시간에 뭘 먹을지 고민되고, 동료와 또 무슨 주제로 얘기를 해야 할지 고민되나요? 슬점이 도와드릴게요! 메뉴 추천도 해드리고, 대화 주제들도 알려드려요😉 그럼,  매주 화요일 오전 8시 30분에 찾아갈게요!\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/63671",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Tue"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "점심 메뉴",
+      "스몰토크"
+    ],
+    "sampleLetterLink": "https://www.notion.so/76d15011743f41ef8ec66078b4c10504",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "102",
+    "title": "BE.LETTER",
+    "description": "\"뉴스레터를 소개하는 뉴스레터\n읽기 좋은 뉴스레터가 점점 더 많아지고 있지만, 새로운 뉴스레터를 발견하는 건 쉽지 않습니다. 좋은 뉴스레터가 더 많은 사람들에게 연결될 수 있도록 매주 하나의 읽기 좋은 뉴스레터를 소개합니다.\n매주 금요일, 스티비 팀이 소개하는 새로운 뉴스레터를 만나보세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/62723",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Fri"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "뉴스레터"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/62723",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "103",
+    "title": "<<한편>>의 편지",
+    "description": "\"바쁜 일상 속 천천히 읽을 가치가 있는 한편의 글을 민음사의 인문 편집자들이 엄선해 보내드립니다. 책보다 짧고 논문보다 쉬운 한편의 인문학.민음사의 인문 콘텐츠 서비스 <<한편>>의 편지를 받아 보세요!\"",
+    "subscriptionLink": "https://minumsa.com/event/32747",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "인문학",
+      "글"
+    ],
+    "sampleLetterLink": "http://minumsa.com/community/pubserially/?trm=228",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "104",
+    "title": "텀블벅 창작레터",
+    "description": "\"사소한 영감을 불어 넣어주는 텀블벅 창작레터를 구독해주세요! \n창작에 도움이 되는 텀블벅 소식은 물론, 업계 인사이트를 파악하고 영감을 얻을 수 있는 다양한 읽을거리와 지속가능한 활동을 위한 지원 사업 등을 정리하여 격주 월요일마다 당신의 메일함에 보내드립니다.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/52647",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "career",
+    "tags": [
+      "창작",
+      "영감",
+      "읽을거리"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "105",
+    "title": "월간소묘 : 레터",
+    "description": "월간소묘 레터는 책과 고양이를 비롯해 일상의 작은 온기를 담은 다양한 연재글을 전합니다. 매달 첫 월요일에 만나요.",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/55692",
+    "sendingTerm": "monthly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "일상",
+      "읽을거리"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/55692",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "106",
+    "title": "책돌이편지",
+    "description": "\"북스톤의 신간과 북스톤 소식, 출판사 사람들의 일상과 일기, 책과 콘텐츠 큐레이션을 받고 싶다면 책돌이 편지의 구독자가 되어주세요!\"",
+    "subscriptionLink": "https://www.book-stone.co.kr/subscribe",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "출판",
+      "책",
+      "콘텐츠"
+    ],
+    "sampleLetterLink": "https://www.book-stone.co.kr/letter",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "107",
+    "title": "TMI.FM 밤레터",
+    "description": "'밤에도일하는사람들'의 텍스트 라디오 <밤레터>",
+    "subscriptionLink": "https://maily.so/draft.briefing/about",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "음악"
+    ],
+    "sampleLetterLink": "https://maily.so/draft.briefing/posts?keyword=%EB%B0%A4%EB%A0%88%ED%84%B0",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "108",
+    "title": "TMI.FM 커피 브리핑",
+    "description": "한 주 간의 국내외 뉴스를 소개하는 <커피 브리핑>",
+    "subscriptionLink": "https://maily.so/draft.briefing/about",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Sat"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "음악 산업",
+      "미디어",
+      "테크"
+    ],
+    "sampleLetterLink": "https://maily.so/draft.briefing/posts?keyword=%EC%BB%A4%ED%94%BC%EB%B8%8C%EB%A6%AC%ED%95%91",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "109",
+    "title": "제주는 그래",
+    "description": "\"제주에서 삶의 터전을 만들어가실 분들을 위한\n특별한 뉴스레터 '제주는 그래'를 시작합니다. \n원하는 모습으로 살아갈 수 있도록\n제주의 삶에 대한 이야기와\n제주에 살아갈 수 있도록 도움이 되는 정보를\n여러분들께 많이 많이 공유해 드릴게요 :)\"",
+    "subscriptionLink": "https://docs.google.com/forms/d/1N2l6w9VWdhn0yz1qi2PMjBZnC_wv-J26yfddBNGsKuQ/viewform?ts=5ea96c91&edit_requested=true",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "제주의 삶",
+      "인사이트",
+      "모임"
+    ],
+    "sampleLetterLink": "https://jejusquare.kr/newsletter",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "110",
+    "title": "플롯 레터",
+    "description": "\"예술교양 NEWSLETTER 예술은 원래 쉽다매주 월요일 찾아가는 이메일 뉴스레터\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/64956",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "인문학",
+      "교양",
+      "연극"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "111",
+    "title": "인디즈 큐",
+    "description": "\"독립영화, 모른다!\n관심을 가져보려는데...뭐부터 봐야해🥺\n독립영화, 어렵다!\n재밌게 보고 나왔는데...그 장면은 대체 무슨 의미지?🧐\n독립영화, 귀찮다!\n나름대로 잘.알.이건만...새소식 찾아보는 게 너무 번거로워😵\n독립영화 큐레이션 레터, 인디즈 큐가 도와드립니다. 😎\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/58087",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "독립영화"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "112",
+    "title": "수플레",
+    "description": "\"수요일의 플레이리스트, 수플레\n오늘 하루, 얼마나 많은 음악이 당신을 스쳐 지나갔나요?  \n수많은 음악 중 기억에 남을만한 것을 찾기란 쉽지 않죠. \n하지만 짧은 이야기와 함께라면? \"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/66675",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "음악"
+    ],
+    "sampleLetterLink": "https://www.notion.so/ARCHIVE-eddd1868837544c7aa6bbdcbc02ae533",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "113",
+    "title": "당근레터",
+    "description": "\"노동법 모르면 나만 손해, 그런데 많은 내용을 어떻게 다 알지? 꼭 알아야 할 노동법을 당연하 노무사가 메일로 보내드립니다. (당근 무료!)\"",
+    "subscriptionLink": "https://docs.google.com/forms/d/1J-zpdimjf2cfO0PK6BM9JYd-8VprljCp3SAq05BzWzA/viewform?edit_requested=true",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "career",
+    "tags": [
+      "직장생활",
+      "사이다노동법"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/65672",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "114",
+    "title": "총총레터",
+    "description": "\"동시대 미술 소식을 알고 싶다면, 총총레터\n🔖격주 금요일에 발송됩니다.\n🔖본격 비평보다는 누구나 쉽게 읽을 수 있는 짧은 글입니다.\n🔖주로 동시대 미술 전시를 다루고, 종종 책이나 영화, 프로젝트 등도 이야기합니다.\"",
+    "subscriptionLink": "http://junghyunkwon.kr/subscribe/",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Fri"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "미술",
+      "예술"
+    ],
+    "sampleLetterLink": "http://junghyunkwon.kr/chch-letter/",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "115",
+    "title": "식물알림장",
+    "description": "☘️ 샐러드연맹은 다양한 방식으로 식물을 알아가는 동물들의 단체에요. 단원들에게는 식물에 대한 이야기를 담은 📩 이메일 뉴스레터(식물 알림장)를 24절기에 무료로 보내드려요.",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/75404",
+    "sendingTerm": "?",
+    "sendingNumber": "24",
+    "sendingDay": [],
+    "categoriesCode": "sci-tech",
+    "tags": [
+      "식물",
+      "24절기"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/75404",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "116",
+    "title": "썸원의 [SUMMARY&EDIT]",
+    "description": "일주일 간 읽고 보는 것들 중에서 괜찮은 것들을 골라 주말에 뉴스레터로 공유해드립니다 :)",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/50103",
+    "sendingTerm": "weekly",
+    "sendingNumber": "2",
+    "sendingDay": [
+      "Sat",
+      "Sun"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "개인의 취향",
+      "콘텐츠"
+    ],
+    "sampleLetterLink": "https://www.notion.so/ABOUT-SUMMARY-EDIT-4d5eb4de31d54ecb8a07c6a27b797b52",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "117",
+    "title": "냠냠편지",
+    "description": "📩 격주에 한 번씩 배달되는 3인 3색 음식편지!",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/76791",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "categoriesCode": "culture",
+    "tags": [
+      "음식"
+    ],
+    "sampleLetterLink": "https://www.notion.so/From-bc650d9c479e47a6a0050da969a10859",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "118",
+    "title": "이벤트 레터",
+    "description": "\"혼자이고 싶지 않은 괴짜들로부터\n마음껏 사랑할 것들을 소개받고 싶은 당신에게.\n취향 큐레이션 레터 서비스 '이상파랑'입니다.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/75414",
+    "sendingTerm": "monthly",
+    "sendingNumber": "2",
+    "sendingDay": [],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "취향",
+      "콘텐츠",
+      "읽을거리"
+    ],
+    "sampleLetterLink": "https://www.notion.so/the-weird-waves-2ac49911063242d9a3ede4a3771a9f9d",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "119",
+    "title": "서울라이터즈",
+    "description": "\"한 주간 화제가 된 디지털 트렌드, 크리에이티브를 현직 카피라이터가 큐레이션 하여 전해 드리는 서울라이터즈 레터입니다. 새로운 한 주의 시작, 반짝이는 영감을 채워 보세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/72985",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "news",
+    "tags": [
+      "트렌드",
+      "영감",
+      "마케팅"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/72985",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "120",
+    "title": "당근레터",
+    "description": "\"열정적인 여러분들의 시간을 조금이라도 더 아껴드리기 위해, 다양한 개인과 업무 생산성 팁틀을 전달합니다. 마치 일과 생활에서 여러분만의 비밀무기가 될 수 있도록...\"",
+    "subscriptionLink": "https://www.carrotmail.kr/",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "categoriesCode": "career",
+    "tags": [
+      "생산성"
+    ],
+    "sampleLetterLink": "https://www.carrotmail.kr/2fc7f4cc-4a5c-42d7-b7d3-38b0ac989f06",
     "lang": "",
     "isChecked": ""
   }
