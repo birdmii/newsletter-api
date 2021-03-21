@@ -275,7 +275,7 @@
   {
     "id": "16",
     "title": "사이드 프로젝트",
-    "description": "\"좋아하는 것도 너무 많고\n나만의 어떤 것을 시작해보고 싶고\n이것저것 해보고 싶은 게너무 많아서 고민인 사람들을 위한 레터\"",
+    "description": "\"좋아하는 것도 너무 많고\n나만의 어떤 것을 시작해보고 싶고\n이것저것 해보고 싶은 게 너무 많아서 고민인 사람들을 위한 레터\"",
     "subscriptionLink": "https://sideproject.co.kr/newsletter?mwr=e70cec98",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
@@ -389,7 +389,7 @@
   {
     "id": "22",
     "title": "머니레터",
-    "description": "\"사회초년생을 위한첫 번째 경제미디어, 어피티매주 월요일부터 금요일까지 아침 8시에꼭 알아야 할 금융정보를메일함으로 보내드려요.\"",
+    "description": "\"사회초년생을 위한 첫 번째 경제미디어, 어피티 매주 월요일부터 금요일까지 아침 8시에 꼭 알아야 할 금융정보를 메일함으로 보내드려요.\"",
     "subscriptionLink": "https://uppity.co.kr/",
     "sendingTerm": "weekly",
     "sendingNumber": "5",
@@ -432,7 +432,7 @@
   {
     "id": "24",
     "title": "뉴스레터#ㅎ_ㅇ",
-    "description": "\"지난 10일간의 콘텐츠 로그지난 10일동안 가장 좋았던 것들지난 10일동의 알라딘 보관함 로그다음 10일동안 기다리는 것들\"",
+    "description": "\"지난 10일간의 콘텐츠 로그 지난 10일동안 가장 좋았던 것들 지난 10일동의 알라딘 보관함 로그 다음 10일동안 기다리는 것들 \"",
     "subscriptionLink": "https://page.stibee.com/subscriptions/30715",
     "sendingTerm": "10 days",
     "sendingNumber": "1",
@@ -670,7 +670,7 @@
   {
     "id": "37",
     "title": "뽀시래기의 지식 한 장",
-    "description": "\"용어에 익숙하지 않을 뿐 부족한 게 아니에요.회사에서 처음 들어보는 단어들에 괜히 어깨가 움츠러든 적 있나요?걱정마세요!뽀시래기의 지식 한 장이 자주 쓰는 실무 용어를 한 장으로 간단하게 알려드려요!\"",
+    "description": "\"용어에 익숙하지 않을 뿐 부족한 게 아니에요.회사에서 처음 들어보는 단어들에 괜히 어깨가 움츠러든 적 있나요? 걱정마세요! 뽀시래기의 지식 한 장이 자주 쓰는 실무 용어를 한 장으로 간단하게 알려드려요!\"",
     "subscriptionLink": "https://www.notion.so/PPO-SIC-3d6f4b7e0847481c87277376b944208d",
     "sendingTerm": "weekly",
     "sendingNumber": "2",
@@ -774,7 +774,7 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "society",
+    "categoriesCode": "education",
     "tags": [
       "교육"
     ],
@@ -989,7 +989,7 @@
   {
     "id": "54",
     "title": "뭐라노",
-    "description": "\"뭐라노 뉴스세줄요약국제신문 디지털콘텐츠를 구독하세요!!\n평소에 기사 읽기 너무힘들지 않나요?.너무 길거나 어렵진 않나요?'뭐라노'는 이런 분들을 위해 탄생했습니다.\"",
+    "description": "\"뭐라노 뉴스세줄요약 국제신문 디지털콘텐츠를 구독하세요!!\n평소에 기사 읽기 너무힘들지 않나요? 너무 길거나 어렵진 않나요? '뭐라노'는 이런 분들을 위해 탄생했습니다.\"",
     "subscriptionLink": "http://www.kookje.co.kr/contents/subscribe.htm",
     "sendingTerm": "daily",
     "sendingNumber": "",
@@ -1084,7 +1084,7 @@
   {
     "id": "59",
     "title": "업클",
-    "description": "\"5분 만에 하루가 보입니다오늘 하루가 궁금하세요?시사 뉴스레터 ‘업클’\"",
+    "description": "\"5분 만에 하루가 보입니다 오늘 하루가 궁금하세요? 시사 뉴스레터 ‘업클’ \"",
     "subscriptionLink": "https://upcle.me/",
     "sendingTerm": "?",
     "sendingNumber": "",
@@ -1101,7 +1101,7 @@
   {
     "id": "60",
     "title": "마부뉴스",
-    "description": "\"데이터로 보는 뉴스의 맥락마부작침 뉴스레터데이터 저널리즘팀 <마부작침>이 도끼를 갈아 바늘을 만드는 정성으로 뉴스레터 서비스를 시작합니다. 데이터로 뉴스의 맥락을 파악하는 ‘마부뉴스’. 매주 당신의 뉴스에 엣지를 더하겠습니다. 놓치지 마세요. 목요일에 만나요!\"",
+    "description": "\"데이터로 보는 뉴스의 맥락 마부작침 뉴스레터 데이터 저널리즘팀 <마부작침>이 도끼를 갈아 바늘을 만드는 정성으로 뉴스레터 서비스를 시작합니다. 데이터로 뉴스의 맥락을 파악하는 ‘마부뉴스’. 매주 당신의 뉴스에 엣지를 더하겠습니다. 놓치지 마세요. 목요일에 만나요!\"",
     "subscriptionLink": "https://page.stibee.com/subscriptions/56136",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
@@ -1136,7 +1136,7 @@
   {
     "id": "62",
     "title": "일분톡",
-    "description": "\"테크레터 일분톡읽다보면 1분넘는세상쉬운 테크이야기매주 월목에 만나요!\"",
+    "description": "\"테크레터 일분톡 읽다보면 1분넘는 세상쉬운 테크이야기 매주 월목에 만나요!\"",
     "subscriptionLink": "http://ilbuntok.com/",
     "sendingTerm": "weekly",
     "sendingNumber": "2",
@@ -1171,7 +1171,7 @@
   {
     "id": "64",
     "title": "틈틈이",
-    "description": "\"안녕하세요!\n좋으니까 나누고 싶은 마음으로, 취향 나눔 뉴스레터 ‘틈틈이’입니다 👋\n'틈틈이' 는 글쓰기 모임 ‘로스트앤파운드’에서 격주 목요일마다 보내드리는 콘텐츠 소개/리뷰 뉴스레터입니다. 책, 영화, 팟캐스트, 넷플릭스, 왓챠, 유튜브 등 즐길 것이 너무나 많은 요즘, 저희가 일상에서 틈틈이 경험한 콘텐츠 중 좋은 것만 모아 여러분께 나눠 드릴게요.\"",
+    "description": "\"'틈틈이' 는 글쓰기 모임 ‘로스트앤파운드’에서 격주 목요일마다 보내드리는 콘텐츠 소개/리뷰 뉴스레터입니다. 책, 영화, 팟캐스트, 넷플릭스, 왓챠, 유튜브 등 즐길 것이 너무나 많은 요즘, 저희가 일상에서 틈틈이 경험한 콘텐츠 중 좋은 것만 모아 여러분께 나눠 드릴게요.\"",
     "subscriptionLink": "https://page.stibee.com/subscriptions/52606",
     "sendingTerm": "biweekly",
     "sendingNumber": "1",
@@ -1191,7 +1191,7 @@
   {
     "id": "65",
     "title": "부딩",
-    "description": "\"내 집 마련을 위한 3분 \n부.알.못 밀레니얼을 위한\n구독형 부동산 뉴스레터, 부딩\n 매주 월·목요일 아침\n어려운 부동산 이슈를 \n 가장 쉬운 언어로 보내드립니다. \n\"",
+    "description": "\"내 집 마련을 위한 3분 \n부.알.못 밀레니얼을 위한\n구독형 부동산 뉴스레터, 부딩\n 매주 월·목요일 아침\n어려운 부동산 이슈를\n 가장 쉬운 언어로 보내드립니다. \n\"",
     "subscriptionLink": "https://www.booding.co/",
     "sendingTerm": "weekly",
     "sendingNumber": "2",
@@ -1350,7 +1350,7 @@
   {
     "id": "73",
     "title": "CFO Letter",
-    "description": "\"다양한 규모의 Start-up 업무경험을 통해 축적된 유용한 정보들을 저만의 방식으로 공유하려 합니다.\nCEO를 포함한 기업의 다양한 의사결정권자들에게 직접 편지를 보내는 마음으로 시작합니다.\n회계, 세무 및 재무관리 등 전문 영역의 지식과 경험들을 정리하는 시간이 될 것이고, 이런 정보들이 다른 사람들에게도 긍정적인 영향을 끼칠수 있으면 좋겠습니다.\"",
+    "description": "\"다양한 규모의 Start-up 업무경험을 통해 축적된 유용한 정보들을 저만의 방식으로 공유하려 합니다.\nCEO를 포함한 기업의 다양한 의사결정권자들에게 직접 편지를 보내는 마음으로 시작합니다.\"",
     "subscriptionLink": "https://www.cfo-letter.com/index",
     "sendingTerm": "biweekly",
     "sendingNumber": "1",
@@ -1404,7 +1404,7 @@
   {
     "id": "76",
     "title": "워브",
-    "description": "\"온라인 비즈니스 종합 정보 편지 워브(wob)매주 목요일 온라인 비즈니스에 대한 정보를 보내드려요.\n각자의 자리에서 바쁘게 살고 있는 여러분들에게온라인비즈니스를 위한 모든 정보를 매주 드리겠습니다.지하철&버스안에서, 사무실에서, 학교, 집에서당신의 온라인비즈니스 스킬이 성장하게 됩니다.\n\"",
+    "description": "\"온라인 비즈니스 종합 정보 편지 워브(wob) 매주 목요일 온라인 비즈니스에 대한 정보를 보내드려요. \n각자의 자리에서 바쁘게 살고 있는 여러분들에게 온라인 비즈니스를 위한 모든 정보를 매주 드리겠습니다. 지하철&버스안에서, 사무실에서, 학교, 집에서 당신의 온라인비즈니스 스킬이 성장하게 됩니다.\n\"",
     "subscriptionLink": "https://mailchi.mp/d336b0cf01b1/wob",
     "sendingTerm": "weekly",
     "sendingNumber": "1",
@@ -1683,7 +1683,7 @@
   {
     "id": "90",
     "title": "위키드 와인레터",
-    "description": "\"3분만에 와인전문가가 되는 법, 위키드 와인레터‘같이 먹고 마셨을 때 더 맛있는 일’을 연구하는 위키드는 지속가능한 와인컨텐츠를 제안하기 위해 온/오프라인 서비스를 만들어나가는 회사입니다. 단숨에 읽어내릴 수 있는 쉽고 재미있는 와인레터를 꾸준히 구독하다보면 어느새 와인전문가가 되어있는 나를 발견할 수 있을거에요! 최신 위키드 소식은 덤입니다. \"",
+    "description": "\"3분만에 와인전문가가 되는 법, 위키드 와인레터 단숨에 읽어내릴 수 있는 쉽고 재미있는 와인레터를 꾸준히 구독하다보면 어느새 와인전문가가 되어있는 나를 발견할 수 있을거에요! 최신 위키드 소식은 덤입니다. \"",
     "subscriptionLink": "https://page.stibee.com/subscriptions/80149",
     "sendingTerm": "?",
     "sendingNumber": "",
@@ -1751,7 +1751,7 @@
   {
     "id": "94",
     "title": "일간 바이라인",
-    "description": "\"바이라인네트워크는 매일 아침 뉴스레터 ‘일간 바이라인’을 구독자 님들께 보내드립니다. 일반적으로 언론사의 뉴스레터는 전날 기사를 홍보하기 위한 수단입니다.\n그러나 일간 바이라인은 그렇지 않습니다. 일간 바이라인은 독자님들께 저희 기자들이 보내는 편지입니다.저희의 관심, 일상, 고민을 독자님들과 함께 나누고 싶어서 시작했습니다. \"",
+    "description": "\"바이라인네트워크는 매일 아침 뉴스레터 ‘일간 바이라인’을 구독자 님들께 보내드립니다. 일간 바이라인은 독자님들께 저희 기자들이 보내는 편지입니다.저희의 관심, 일상, 고민을 독자님들과 함께 나누고 싶어서 시작했습니다. \"",
     "subscriptionLink": "https://byline.network/newsletter/",
     "sendingTerm": "daily",
     "sendingNumber": "",
@@ -2155,7 +2155,7 @@
   },
   {
     "id": "116",
-    "title": "썸원의 [SUMMARY&EDIT]",
+    "title": "썸원의 [SUMMARY & EDIT]",
     "description": "일주일 간 읽고 보는 것들 중에서 괜찮은 것들을 골라 주말에 뉴스레터로 공유해드립니다 :)",
     "subscriptionLink": "https://page.stibee.com/subscriptions/50103",
     "sendingTerm": "weekly",
@@ -2242,6 +2242,254 @@
       "생산성"
     ],
     "sampleLetterLink": "https://www.carrotmail.kr/2fc7f4cc-4a5c-42d7-b7d3-38b0ac989f06",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "121",
+    "title": "00:00",
+    "description": "\"격주 목요일 오전, 앱/웹 서비스를 구성하는 요소들에 대한 편집자의 생각과 노하우, 함께 활용하기 좋은 서비스를 정리하여 보내드립니다. 후회하지 않으실 거예요 😉\"",
+    "subscriptionLink": "https://www.notion.so/00-00-a0da3d80633f4554b0c9599ea4261084",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "sci-tech",
+    "tags": [
+      "IT",
+      "웹",
+      "앱"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "122",
+    "title": "파인애플 뉴스레터",
+    "description": "\"쏟아지는 금융이슈에 더부룩해지셨나요? \n파인애플이 시원하게 소화시켜드립니다! \n한 주간 알아야 하는 금융이슈만 '쏙쏙' 골라내 매주 금요일 당신의 메일함으로 보내드립니다💌\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/72105",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Fri"
+    ],
+    "categoriesCode": "economy",
+    "tags": [
+      "금융 이슈"
+    ],
+    "sampleLetterLink": "https://www.fnnews.com/pineapple",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "123",
+    "title": "GLIT 뉴스레터",
+    "description": "\"New but Classic, GLIT \n클래식 음악과 어색한 분들 주목!📢 \n매주 금요일마다 당신을 위한 \n클래식 음악 큐레이팅 서비스를 받아보세요. \n에디터가 선정한 음반을 쉽고 자세한 해설과 함께 보내드립니다 :) \"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/71156",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Fri"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "클래식",
+      "음악"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "124",
+    "title": "위클리 부동산",
+    "description": "\"매일 쏟아져 나오는 부동산 뉴스를 일일히 챙겨보기 힘드신가요? 정치 선전과 광고가 뒤섞인 기사들로 시간을 낭비하고 계신가요? \n<위클리 부동산>은 매주 일요일, 한 주간의 부동산 소식을 정리해 보내드립니다. 관련 기사를 꾸준히 보면서 시장 동향을 파악해보세요. 아는 것이 자산입니다 :)\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/95678",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Sun"
+    ],
+    "categoriesCode": "economy",
+    "tags": [
+      "부동산"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "125",
+    "title": "카드고릴라",
+    "description": "\"누구나 공감할 일상 속 카드소비 이야기.\n매주 1회, 카드고릴라 뉴스레터가 찾아갑니다!\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/68709",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "economy",
+    "tags": [
+      "신용카드",
+      "체크카드",
+      "소비"
+    ],
+    "sampleLetterLink": "https://www.card-gorilla.com/contents/detail/1532?utm_source=CGletter&utm_medium=form",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "126",
+    "title": "FAPER",
+    "description": "\"공연 덕후들이 모여 직접 만드는 뉴스레터입니다. \n반가운 공연 정보와 재밌고 다채로운 콘텐츠가 매주 수요일 저녁, 공연 덕후들을 찾아갑니다!\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/70350?groupIds=48218",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "공연"
+    ],
+    "sampleLetterLink": "https://festivallife.kr/newsletter",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "127",
+    "title": "라운드",
+    "description": "라운드 ROUND는 뉴스와 소식들을 큐레이션하여 돈과 세상사는 이야기를 전해드려요. 라운더들이 세상과 조금씩 가까워 질 수 있도록 어렵고 복잡했던 뉴스와 소식들을 쉽게 이해할 수 있도록 일주일에 두 번씩 큐레이션해서 전해드려요. ROUND는 돈과 세상사는 이야기로 누구나 경제적 자유를 누리는 세상을 만들겠습니다.",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/81642",
+    "sendingTerm": "weekly",
+    "sendingNumber": "2",
+    "sendingDay": [
+      "Mon",
+      "Thu"
+    ],
+    "categoriesCode": "economy",
+    "tags": [
+      "돈",
+      "요즘 이슈"
+    ],
+    "sampleLetterLink": "https://kdpost.tistory.com/notice/55",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "128",
+    "title": "세바시",
+    "description": "\"세바시는 선한 영향력을 가진 사람들의 이야기를 세상에 알립니다. 메일함을 가치있는 이야기와 성장의 디딤돌로 채우고 싶으신가요? 여러분의 15분, 세바시에게 맡겨주세요 🥰\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/52000",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "강연",
+      "성장",
+      "이야기"
+    ],
+    "sampleLetterLink": "https://www.notion.so/56d2ea9c1d0c4f48962a2115a016895e",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "129",
+    "title": "북코스모스",
+    "description": "\"책 읽는 리더들을 위한 고품격 독서레터입니다. 북코스모스의 6,000여종 도서요약본을 주제별로 엄선하여 아침마다 책 1~2쪽 분량의 내용을 읽어보실 수 있도록 소개합니다. 매주 책을 잘 읽었는지 확인도 하고 상품도 받을 수 있는 독서퀴즈도 진행됩니다.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/74471",
+    "sendingTerm": "weekly",
+    "sendingNumber": "5",
+    "sendingDay": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "categoriesCode": "culture",
+    "tags": [
+      "독서",
+      "책"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "130",
+    "title": "프리낫프리",
+    "description": "매거진 <프리낫프리>와 다양한 프리랜서의 프로젝트와 이야기를 공유합니다.",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/63004",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "career",
+    "tags": [
+      "프리랜서"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "131",
+    "title": "ANTIEGG",
+    "description": "\"우리는 ‘문화예술 큐레이션 플랫폼’입니다. 모두에게 매력적이지만 그동안 알지 못했던 정보를 공유하고, 생각해볼 법하지만 사고의 여유가 없던 사람들에게 담론을 제시하고자 합니다. ANTIEGG와 함께 문화예술을 둘러싼 다양한 시선의 존중, 문화예술을 이야기하는 친절한 언어를 경험해 보세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/85471",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "categoriesCode": "culture",
+    "tags": [
+      "문화예술"
+    ],
+    "sampleLetterLink": "https://antiegg.kr/INTRO@7224170",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "132",
+    "title": "꼬순다방",
+    "description": "\"매주 수요일 오전 8시, 동물들이 주인공인 힐링 뉴스레터가 찾아온다! 커피 향기 대신 멍냥이들의 중독적인 꼬순내🐾가 가득한 <꼬순다방> 귀여움에 나도 모르게 이를 깍 깨물게 되는 동물 친구들의 사진과 에피소드로 함께 힐링해요🥰\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/34323",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "반려동물"
+    ],
+    "sampleLetterLink": "",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "133",
+    "title": "데일리스낵",
+    "description": "\"200개 상황 매일 1개씩, 5분 영어 뉴스레터🌞 데일리스낵은 여러분의 영어가 필요한 순간을 함께 준비합니다.\n우리가 가장 쉽게 마주칠 수 있는 일상 속 상황을 엄선하여\n에피소드 형식의 영어학습 콘텐츠를 담아 발송해드려요.🤗\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/81053",
+    "sendingTerm": "weekly",
+    "sendingNumber": "5",
+    "sendingDay": [
+      "Mon",
+      "Tue",
+      "Wed",
+      "Thu",
+      "Fri"
+    ],
+    "categoriesCode": "education",
+    "tags": [
+      "영어 공부"
+    ],
+    "sampleLetterLink": "https://www.notion.so/2d00246879e74e5ba7931397ec8ac679",
     "lang": "",
     "isChecked": ""
   }
