@@ -434,7 +434,7 @@
     "title": "뉴스레터#ㅎ_ㅇ",
     "description": "\"지난 10일간의 콘텐츠 로그 지난 10일동안 가장 좋았던 것들 지난 10일동의 알라딘 보관함 로그 다음 10일동안 기다리는 것들 \"",
     "subscriptionLink": "https://page.stibee.com/subscriptions/30715",
-    "sendingTerm": "10 days",
+    "sendingTerm": "tendays",
     "sendingNumber": "1",
     "sendingDay": [],
     "categoriesCode": "culture",
@@ -2490,6 +2490,25 @@
       "영어 공부"
     ],
     "sampleLetterLink": "https://www.notion.so/2d00246879e74e5ba7931397ec8ac679",
+    "lang": "",
+    "isChecked": ""
+  },
+  {
+    "id": "134",
+    "title": "냐불냐불",
+    "description": "\"- 매주 1회, 1년동안 귀여운 우리집 or 친구집 고양이 사진을 메일로 보내드립니다. \n- 한 달에 한 번은 고양이와 관련된 에세이도 함께 갑니다.\n\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/81545",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Sun"
+    ],
+    "categoriesCode": "lifestyle",
+    "tags": [
+      "반려묘",
+      "고양이"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/81545",
     "lang": "",
     "isChecked": ""
   }
