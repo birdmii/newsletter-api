@@ -9,13 +9,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "design",
-    "tags": [
+    "category": "design",
+    "tag": [
       "해외 아티클"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "2",
@@ -27,13 +27,13 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "design",
-    "tags": [
+    "category": "design",
+    "tag": [
       "국내 아티클"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/29178",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "3",
@@ -45,13 +45,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "trend",
+    "tag": [
       "트렌드"
     ],
     "sampleLetterLink": "https://us8.campaign-archive.com/?e=[UNIQID]&u=2e9edbac18058219e61aab5fd&id=682f911635",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "4",
@@ -63,14 +63,14 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "trend",
+    "tag": [
       "트렌드",
       "MZ세대"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "5",
@@ -82,13 +82,13 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "marketing",
-    "tags": [
+    "category": "marketing",
+    "tag": [
       "트렌드"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "6",
@@ -100,13 +100,13 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "marketing",
-    "tags": [
+    "category": "marketing",
+    "tag": [
       "콘텐츠"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "7",
@@ -118,14 +118,14 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "trend",
+    "tag": [
       "브랜드",
       "트렌드"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "false"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "8",
@@ -137,15 +137,15 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "취향",
       "소비",
       "트렌드"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "9",
@@ -157,13 +157,13 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "스타트업"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "10",
@@ -173,13 +173,13 @@
     "sendingTerm": "monthly",
     "sendingNumber": "2",
     "sendingDay": [],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "여성"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "11",
@@ -191,13 +191,13 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "스타트업"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/39990",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "12",
@@ -209,14 +209,14 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "밀레니얼",
       "여성"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "13",
@@ -228,13 +228,13 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "스타트업"
     ],
     "sampleLetterLink": "https://us8.campaign-archive.com/home/?u=8d8fee8af3a232bbab53bda55&id=80d36b5ff0",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "14",
@@ -246,13 +246,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "자기계발"
     ],
     "sampleLetterLink": "https://aha-contents.tistory.com/category/%EC%95%84%ED%95%98%EB%A0%88%ED%84%B0%20%EC%A7%80%EB%82%9C%20%ED%98%B8%20%EB%B3%B4%EA%B8%B0",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "15",
@@ -264,13 +264,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "직장인"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "false"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "16",
@@ -282,13 +282,13 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "자기계발"
     ],
     "sampleLetterLink": "https://us17.campaign-archive.com/home/?u=a89600e386cefa6d4758d1106&id=3c3978422c",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "17",
@@ -302,13 +302,13 @@
       "Wed",
       "Fri"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "뉴스 브리핑"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "18",
@@ -325,13 +325,13 @@
       "Fri",
       "Sat"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "뉴스 브리핑"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "19",
@@ -341,13 +341,13 @@
     "sendingTerm": "daily",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "뉴스 브리핑"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "false"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "20",
@@ -359,13 +359,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "자아탐구"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "21",
@@ -377,14 +377,14 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "자아탐구",
       "고민"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "22",
@@ -400,15 +400,15 @@
       "Thu",
       "Fri"
     ],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "금융",
       "재테크",
       "사회초년생"
     ],
     "sampleLetterLink": "https://www.notion.so/7a061d7564a24f2d8c30684dc3fec120",
-    "lang": "ko",
-    "isChecked": "false"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "23",
@@ -420,14 +420,14 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "금융",
       "재테크"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "24",
@@ -437,13 +437,13 @@
     "sendingTerm": "tendays",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "콘텐츠"
     ],
     "sampleLetterLink": "https://www.notion.so/_-15c98a642b694b38b25272cc660c1a4e",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "25",
@@ -455,13 +455,13 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "책"
     ],
     "sampleLetterLink": "https://www.notion.so/Egg-Break-s-house-815443c0520541e1a775f0441db9bcfa",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "26",
@@ -473,13 +473,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "work",
+    "tag": [
       "혁신가"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "false"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "27",
@@ -489,15 +489,15 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "재테크",
       "부동산",
       "암호화폐"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "false"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "28",
@@ -507,14 +507,14 @@
     "sendingTerm": "daily",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "금융",
       "투자"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "false"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "29",
@@ -526,14 +526,14 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "빵",
       "음식"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "30",
@@ -545,13 +545,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "음악"
     ],
     "sampleLetterLink": "https://us12.campaign-archive.com/home/?u=b8884d9c803717ac5a17fbdaa&id=b7b9db50fe",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "31",
@@ -563,15 +563,15 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "자기계발",
       "생산성",
       "비즈니스"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "32",
@@ -579,16 +579,16 @@
     "description": "\"탈중앙화 시대를 여는 뉴스허브, 디센터(Decenter)입니다.뉴스레터는 매주 1-2회 발송되며, 주요 뉴스와 칼럼 정보가 제공됩니다. \"",
     "subscriptionLink": "https://docs.google.com/forms/d/e/1FAIpQLSeyuIRpTwvunCDKiNRugBLM9PztJ-AZmmJe1KJ_thrAe7emDw/viewform",
     "sendingTerm": "weekly",
-    "sendingNumber": "1~2",
+    "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "블록체인",
       "암호화폐"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "33",
@@ -598,13 +598,13 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "할머니"
     ],
     "sampleLetterLink": "https://linktr.ee/harmonyletter",
-    "lang": "ko",
-    "isChecked": "false"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "34",
@@ -617,13 +617,13 @@
       "Mon",
       "Thu"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "콘텐츠"
     ],
     "sampleLetterLink": "https://stibee.com/api/v1.0/emails/share/_kSh8-keWKtWwkQ01B0Eu0P09mDe9A==",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "35",
@@ -635,15 +635,15 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "공간",
       "도시",
       "사람"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "36",
@@ -659,13 +659,13 @@
       "Thu",
       "Fri"
     ],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "tech",
+    "tag": [
       "IT"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "37",
@@ -678,13 +678,13 @@
       "Mon",
       "Thu"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "실무"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "38",
@@ -697,13 +697,13 @@
       "Tue",
       "Fri"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "해외 비즈니스"
     ],
     "sampleLetterLink": "https://coffeepot.me/",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "39",
@@ -715,15 +715,15 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "개인의 취향",
       " 음악",
       " 읽을거리"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "40",
@@ -735,15 +735,15 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "개인의 취향",
       "콘텐츠",
       "마케터"
     ],
     "sampleLetterLink": "https://www.notion.so/daisy611/J-d3ef9dc886d746e8b65343036f059300",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "41",
@@ -756,13 +756,13 @@
       "Wed",
       "Fri"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "반려동물"
     ],
     "sampleLetterLink": "https://us17.campaign-archive.com/home/?u=b41507f1f17cbe76293cde76c&id=5dae4e2094",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "42",
@@ -774,13 +774,13 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "education",
-    "tags": [
+    "category": "education",
+    "tag": [
       "교육"
     ],
     "sampleLetterLink": "https://us18.campaign-archive.com/home/?u=032174c6f9f9e9c9630557ef1&id=84b8365d0f",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "43",
@@ -792,14 +792,14 @@
     "sendingDay": [
       "Sun"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "개인의 취향",
       "일상"
     ],
     "sampleLetterLink": "https://lnky.in/mangossupermarket",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "44",
@@ -811,14 +811,14 @@
     "sendingDay": [
       "Sun"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "비즈니스",
       "투자"
     ],
     "sampleLetterLink": "https://hyuni.substack.com/",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "45",
@@ -828,15 +828,15 @@
     "sendingTerm": "biweekly",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "tech",
+    "tag": [
       "테크",
       "스타트업",
       "VC"
     ],
     "sampleLetterLink": "https://hur.substack.com/",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "46",
@@ -848,15 +848,15 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "콘텐츠",
       "영화",
       "드라마"
     ],
     "sampleLetterLink": "https://video-jockey.com/archive",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "47",
@@ -868,13 +868,13 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "음식"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "48",
@@ -886,13 +886,13 @@
     "sendingDay": [
       "Sun"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "글"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/59924",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "49",
@@ -904,13 +904,13 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "취향"
     ],
     "sampleLetterLink": "https://www.notion.so/3fab1d84b6cd4654b6e964f23b362c47?v=c54c17ff83414064800bc0f1562bcd6c",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "50",
@@ -922,15 +922,15 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "trend",
+    "tag": [
       "비즈니스",
       "마케팅",
       "트렌드"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "51",
@@ -940,14 +940,14 @@
     "sendingTerm": "monthly",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "tech",
+    "tag": [
       "IT",
       "개발자"
     ],
     "sampleLetterLink": "https://blog.gaerae.com/search/label/newsletter",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "52",
@@ -957,14 +957,14 @@
     "sendingTerm": "monthly",
     "sendingNumber": "2",
     "sendingDay": [],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "marketing",
+    "tag": [
       "MZ세대",
       "대학생"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": "true"
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "53",
@@ -976,15 +976,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "사람",
       "인사이트",
       "트렌드"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "54",
@@ -994,15 +994,15 @@
     "sendingTerm": "daily",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "이슈",
       "뉴스 브리핑",
       "국제신문"
     ],
     "sampleLetterLink": "",
-    "lang": "ko",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "55",
@@ -1014,14 +1014,14 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "시사",
       "한겨레"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/98338",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "56",
@@ -1034,15 +1034,15 @@
       "Tue",
       "Fri"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "뉴스 브리핑",
       "이야기",
       "한국일보"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "57",
@@ -1054,14 +1054,14 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "tech",
+    "tag": [
       "테크 이슈",
       "중앙일보"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "58",
@@ -1071,15 +1071,15 @@
     "sendingTerm": "weekly",
     "sendingNumber": "3",
     "sendingDay": [],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "tech",
+    "tag": [
       "테크 트렌드",
       "실리콘밸리",
       "매일경제"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "59",
@@ -1089,14 +1089,14 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "뉴스 브리핑",
       "오늘의 이슈"
     ],
     "sampleLetterLink": "https://upcle.me/archives/category/newsletter",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "60",
@@ -1108,14 +1108,14 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "이슈",
       "SBS"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/56136",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "61",
@@ -1125,13 +1125,13 @@
     "sendingTerm": "monthly",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "출판"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "62",
@@ -1144,13 +1144,13 @@
       "Mon",
       "Thu"
     ],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "tech",
+    "tag": [
       "테크"
     ],
     "sampleLetterLink": "https://us4.campaign-archive.com/home/?u=fac734f2470934a937f9d902c&id=0fd8d1e102",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "63",
@@ -1160,13 +1160,13 @@
     "sendingTerm": "weekly",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "trend",
+    "tag": [
       "이슈"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "64",
@@ -1178,15 +1178,15 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "개인의 취향",
       "콘텐츠",
       "리뷰"
     ],
     "sampleLetterLink": "https://www.notion.so/lostandfound1738/20d04a65707441caa9d200af24b3d9db",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "65",
@@ -1199,13 +1199,13 @@
       "Mon",
       "Thu"
     ],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "부동산"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "66",
@@ -1217,15 +1217,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "society",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "환경",
       "인권",
       "마이너 이슈"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "67",
@@ -1237,14 +1237,14 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "부동산",
       "투자"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "68",
@@ -1258,14 +1258,14 @@
       "Wed",
       "Fri"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "이슈",
       "시사"
     ],
     "sampleLetterLink": "https://theslang.co/27",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "69",
@@ -1277,15 +1277,15 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "주말",
       "핫플",
       "집콕"
     ],
     "sampleLetterLink": "https://www.notion.so/2937e3e4f9884521a79198eac3cd07ef",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "70",
@@ -1297,15 +1297,15 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "일상",
       "즐거움",
       "새로움"
     ],
     "sampleLetterLink": "https://www.notion.so/madxcompany/b41ec2bbfe7e4191ac53cd43a86756dd",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "71",
@@ -1317,15 +1317,15 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "시골",
       "공간",
       "사람"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "72",
@@ -1337,15 +1337,15 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "출판",
       "책",
       "콘텐츠"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/74783",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "73",
@@ -1355,15 +1355,15 @@
     "sendingTerm": "biweekly",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "회계",
       "세무",
       "재무관리"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "74",
@@ -1375,15 +1375,15 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "travel",
-    "tags": [
+    "category": "work",
+    "tag": [
       "여행",
       "항공",
       "숙박"
     ],
     "sampleLetterLink": "https://www.notion.so/14fe3c695a4649a2986edaea9884df2f",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "75",
@@ -1393,13 +1393,13 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "실리콘밸리"
     ],
     "sampleLetterLink": "https://us4.campaign-archive.com/home/?u=e1e73f48c1c799f7aa2410f8d&id=0db1af86d0",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "76",
@@ -1411,13 +1411,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "온라인 비즈니스"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "77",
@@ -1429,14 +1429,14 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "모임",
       "이벤트"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "78",
@@ -1446,14 +1446,14 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "marketing",
-    "tags": [
+    "category": "marketing",
+    "tag": [
       "콘텐츠",
       "미디어"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/55500",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "79",
@@ -1465,15 +1465,15 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "travel",
-    "tags": [
-      "여행",
+    "category": "work",
+    "tag": [
       "비즈니스",
-      "이슈"
+      "이슈",
+      "해외"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "80",
@@ -1489,14 +1489,14 @@
       "Thu",
       "Fri"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "글로벌 금융",
       " 글로벌 경제"
     ],
     "sampleLetterLink": "https://soonsal.com/newsletters",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "81",
@@ -1508,15 +1508,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "창업",
       "스타트업",
       "데모데이"
     ],
     "sampleLetterLink": "https://sensible.kr/box",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "82",
@@ -1528,14 +1528,14 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "trend",
+    "tag": [
       "미디어",
       "트렌드"
     ],
     "sampleLetterLink": "https://www.notion.so/66aabc1324a046b98b4ef997df4f1227",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "83",
@@ -1551,14 +1551,14 @@
       "Thu",
       "Fri"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "해외 뉴스",
       "글로벌 기업"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "84",
@@ -1570,15 +1570,15 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "marketing",
+    "tag": [
       "마케팅",
       "크리에이터",
       "읽을거리"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/3",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "85",
@@ -1590,15 +1590,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "행사",
       "모임",
       "이벤트"
     ],
     "sampleLetterLink": "https://www.notion.so/EVENT-LETTER-b8bf340a45c1421abaf6091593cdec53",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "86",
@@ -1610,15 +1610,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "소셜섹터",
       "인터뷰",
       "읽을거리"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "87",
@@ -1630,14 +1630,14 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "맥주",
       "수제맥주"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "88",
@@ -1651,14 +1651,14 @@
       "Wed",
       "Fri"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "시사",
       "상식"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "89",
@@ -1670,15 +1670,15 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "주거",
       "공간",
       "집"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "90",
@@ -1688,14 +1688,14 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "와인",
       "음식"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "91",
@@ -1707,14 +1707,14 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "브랜드",
       "마케팅"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "92",
@@ -1724,13 +1724,13 @@
     "sendingTerm": "monthly",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "tech",
+    "tag": [
       "IT"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "93",
@@ -1740,13 +1740,13 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "design",
-    "tags": [
+    "category": "design",
+    "tag": [
       "브랜딩"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "94",
@@ -1756,14 +1756,14 @@
     "sendingTerm": "daily",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "IT",
       "기술"
     ],
     "sampleLetterLink": "https://us18.campaign-archive.com/home/?u=bedb3ad13e513e25afa719b73&id=81db217913",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "95",
@@ -1773,13 +1773,13 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "HR"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "96",
@@ -1789,14 +1789,14 @@
     "sendingTerm": "monthly",
     "sendingNumber": "2",
     "sendingDay": [],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "HR",
       "실무"
     ],
     "sampleLetterLink": "https://us10.campaign-archive.com/home/?u=6ba6831445577be6202fb34a2&id=51a82e5f98",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "97",
@@ -1808,13 +1808,13 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "marketing",
-    "tags": [
+    "category": "marketing",
+    "tag": [
       "콘텐츠"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "98",
@@ -1824,14 +1824,14 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "marketing",
-    "tags": [
+    "category": "marketing",
+    "tag": [
       "트렌드",
       "콘텐츠"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "99",
@@ -1841,15 +1841,15 @@
     "sendingTerm": "daily",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "국내외",
       "비즈니스",
       "쉬운"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "100",
@@ -1861,15 +1861,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "에세이",
       "경험",
       "생각"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "101",
@@ -1881,14 +1881,14 @@
     "sendingDay": [
       "Tue"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "점심 메뉴",
       "스몰토크"
     ],
     "sampleLetterLink": "https://www.notion.so/76d15011743f41ef8ec66078b4c10504",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "102",
@@ -1900,13 +1900,13 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "뉴스레터"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/62723",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "103",
@@ -1918,14 +1918,14 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "인문학",
       "글"
     ],
     "sampleLetterLink": "http://minumsa.com/community/pubserially/?trm=228",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "104",
@@ -1937,15 +1937,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "창작",
       "영감",
       "읽을거리"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "105",
@@ -1957,14 +1957,14 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "일상",
       "읽을거리"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/55692",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "106",
@@ -1976,15 +1976,15 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "출판",
       "책",
       "콘텐츠"
     ],
     "sampleLetterLink": "https://www.book-stone.co.kr/letter",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "107",
@@ -1996,13 +1996,13 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "work",
+    "tag": [
       "음악"
     ],
     "sampleLetterLink": "https://maily.so/draft.briefing/posts?keyword=%EB%B0%A4%EB%A0%88%ED%84%B0",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "108",
@@ -2014,15 +2014,15 @@
     "sendingDay": [
       "Sat"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "news",
+    "tag": [
       "음악 산업",
       "미디어",
       "테크"
     ],
     "sampleLetterLink": "https://maily.so/draft.briefing/posts?keyword=%EC%BB%A4%ED%94%BC%EB%B8%8C%EB%A6%AC%ED%95%91",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "109",
@@ -2032,15 +2032,15 @@
     "sendingTerm": "biweekly",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "제주의 삶",
       "인사이트",
       "모임"
     ],
     "sampleLetterLink": "https://jejusquare.kr/newsletter",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "110",
@@ -2052,15 +2052,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "인문학",
       "교양",
       "연극"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "111",
@@ -2072,13 +2072,13 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "독립영화"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "112",
@@ -2090,13 +2090,13 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "음악"
     ],
     "sampleLetterLink": "https://www.notion.so/ARCHIVE-eddd1868837544c7aa6bbdcbc02ae533",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "113",
@@ -2108,14 +2108,14 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "직장생활",
       "사이다노동법"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/65672",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "114",
@@ -2127,14 +2127,14 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "미술",
       "예술"
     ],
     "sampleLetterLink": "http://junghyunkwon.kr/chch-letter/",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "115",
@@ -2144,14 +2144,14 @@
     "sendingTerm": "?",
     "sendingNumber": "24",
     "sendingDay": [],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "식물",
       "24절기"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/75404",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "116",
@@ -2164,14 +2164,14 @@
       "Sat",
       "Sun"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "개인의 취향",
       "콘텐츠"
     ],
     "sampleLetterLink": "https://www.notion.so/ABOUT-SUMMARY-EDIT-4d5eb4de31d54ecb8a07c6a27b797b52",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "117",
@@ -2181,13 +2181,13 @@
     "sendingTerm": "biweekly",
     "sendingNumber": "1",
     "sendingDay": [],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "음식"
     ],
     "sampleLetterLink": "https://www.notion.so/From-bc650d9c479e47a6a0050da969a10859",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "118",
@@ -2197,15 +2197,15 @@
     "sendingTerm": "monthly",
     "sendingNumber": "2",
     "sendingDay": [],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "취향",
       "콘텐츠",
       "읽을거리"
     ],
     "sampleLetterLink": "https://www.notion.so/the-weird-waves-2ac49911063242d9a3ede4a3771a9f9d",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "119",
@@ -2217,15 +2217,15 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "news",
-    "tags": [
+    "category": "trend",
+    "tag": [
       "트렌드",
       "영감",
       "마케팅"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/72985",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "120",
@@ -2237,13 +2237,13 @@
     "sendingDay": [
       "Mon"
     ],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "생산성"
     ],
     "sampleLetterLink": "https://www.carrotmail.kr/2fc7f4cc-4a5c-42d7-b7d3-38b0ac989f06",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "121",
@@ -2255,15 +2255,15 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "sci-tech",
-    "tags": [
+    "category": "tech",
+    "tag": [
       "IT",
       "웹",
       "앱"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "122",
@@ -2275,13 +2275,13 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "금융 이슈"
     ],
     "sampleLetterLink": "https://www.fnnews.com/pineapple",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "123",
@@ -2293,14 +2293,14 @@
     "sendingDay": [
       "Fri"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "클래식",
       "음악"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "124",
@@ -2312,13 +2312,13 @@
     "sendingDay": [
       "Sun"
     ],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "부동산"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "125",
@@ -2330,15 +2330,15 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "신용카드",
       "체크카드",
       "소비"
     ],
     "sampleLetterLink": "https://www.card-gorilla.com/contents/detail/1532?utm_source=CGletter&utm_medium=form",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "126",
@@ -2350,13 +2350,13 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "공연"
     ],
     "sampleLetterLink": "https://festivallife.kr/newsletter",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "127",
@@ -2369,14 +2369,14 @@
       "Mon",
       "Thu"
     ],
-    "categoriesCode": "economy",
-    "tags": [
+    "category": "economy",
+    "tag": [
       "돈",
       "요즘 이슈"
     ],
     "sampleLetterLink": "https://kdpost.tistory.com/notice/55",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "128",
@@ -2388,15 +2388,15 @@
     "sendingDay": [
       "Thu"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "강연",
       "성장",
       "이야기"
     ],
     "sampleLetterLink": "https://www.notion.so/56d2ea9c1d0c4f48962a2115a016895e",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "129",
@@ -2412,14 +2412,14 @@
       "Thu",
       "Fri"
     ],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "독서",
       "책"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "130",
@@ -2429,13 +2429,13 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "career",
-    "tags": [
+    "category": "work",
+    "tag": [
       "프리랜서"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "131",
@@ -2445,13 +2445,13 @@
     "sendingTerm": "?",
     "sendingNumber": "",
     "sendingDay": [],
-    "categoriesCode": "culture",
-    "tags": [
+    "category": "culture",
+    "tag": [
       "문화예술"
     ],
     "sampleLetterLink": "https://antiegg.kr/INTRO@7224170",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "132",
@@ -2463,13 +2463,13 @@
     "sendingDay": [
       "Wed"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "반려동물"
     ],
     "sampleLetterLink": "",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "133",
@@ -2485,13 +2485,13 @@
       "Thu",
       "Fri"
     ],
-    "categoriesCode": "education",
-    "tags": [
+    "category": "education",
+    "tag": [
       "영어 공부"
     ],
     "sampleLetterLink": "https://www.notion.so/2d00246879e74e5ba7931397ec8ac679",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
   },
   {
     "id": "134",
@@ -2503,13 +2503,121 @@
     "sendingDay": [
       "Sun"
     ],
-    "categoriesCode": "lifestyle",
-    "tags": [
+    "category": "lifestyle",
+    "tag": [
       "반려묘",
       "고양이"
     ],
     "sampleLetterLink": "https://page.stibee.com/archives/81545",
-    "lang": "",
-    "isChecked": ""
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "135",
+    "title": "비트",
+    "description": "\"일상이 바쁜 당신의 비건지향 라이프스타일을 위한 소식통, 비트와 함께 지속가능한 사회를 만들어가요! \n일주일에 한 번 비거니즘 뉴스로 여러분을 찾아갈게요🌷\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/61680",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "category": "lifestyle",
+    "tag": [
+      "채식",
+      "비건",
+      "환경"
+    ],
+    "sampleLetterLink": "https://www.notion.so/2bf38bac7aa448b7afc585c2ebaae0ad",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "136",
+    "title": "근사한 하루",
+    "description": "멜버른에서 쓴 글과 사진을 월 2회 보내드립니다.",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/81922",
+    "sendingTerm": "monthly",
+    "sendingNumber": "2",
+    "sendingDay": [],
+    "category": "lifestyle",
+    "tag": [
+      "일상",
+      "에세이"
+    ],
+    "sampleLetterLink": "",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "137",
+    "title": "NWNL 뉴스레터",
+    "description": "\"반갑습니다. \n한 달에 한 번, 느티나무도서관의 새로운 소식을  전해드립니다.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/37475",
+    "sendingTerm": "monthly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "category": "culture",
+    "tag": [
+      "책",
+      "도서관"
+    ],
+    "sampleLetterLink": "https://docs.google.com/document/d/1rPe0x-jER0rTnkSZvIm3R0zucxQsy-5TBzcicyMMaaA/edit",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "138",
+    "title": "TikTok Trend Letter",
+    "description": "\"매주 틱톡의 최신 콘텐츠와 트렌드를 가장 빠르게 알려주는 틱톡 트렌드 레터입니다💌. \n숏콘텐츠의 세상, 틱톡의 인사이트를 알고 싶다면 지금 바로 틱톡 트렌드 레터를 구독하세요!\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/73366",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Wed"
+    ],
+    "category": "trend",
+    "tag": [
+      "트렌드",
+      "콘텐츠"
+    ],
+    "sampleLetterLink": "",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "139",
+    "title": "북커버리 위클리 레터",
+    "description": "\"앞서가는 사람들의 세상 모든 서재, 북커버리입니다.\n북커버리 위클리 레터는 개발자, 디자이너, 마케터, 언론인, 환경전문가 등 현업의 다양한 직업 사람들이 북커버리에 직접 소개해주시는 좋은 책들을 전달합니다.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/110757",
+    "sendingTerm": "weekly",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "category": "culture",
+    "tag": [
+      "책"
+    ],
+    "sampleLetterLink": "",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "140",
+    "title": "푼푼레터",
+    "description": "\"월요일 아침, 금융 트레이닝으로 시작하세요!\"",
+    "subscriptionLink": "https://punpun.co.kr/punpun-letter/뉴스레터-구독하기/",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "category": "economy",
+    "tag": [
+      "금융",
+      "초보"
+    ],
+    "sampleLetterLink": "https://punpun.co.kr/punpun-letters/",
+    "language": "ko",
+    "publishing": "true"
   }
 ]
