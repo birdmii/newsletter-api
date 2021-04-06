@@ -2619,5 +2619,190 @@
     "sampleLetterLink": "https://punpun.co.kr/punpun-letters/",
     "language": "ko",
     "publishing": "true"
+  },
+  {
+    "id": "141",
+    "title": "히세댓 커피레터",
+    "description": "\"안녕, 친구.\n히세댓은 매 주 목요일마다 카페와 어울리는 음악을 큐레이션해서 너에게 선물할거야.  평범한 하루도 커피 한 잔으로 너의 일상이 영화처럼 달달하게 빛났으면 좋겠어. 같이 가자, 우리:)\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/81008",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Thu"
+    ],
+    "category": "lifestyle",
+    "tag": [
+      "커피",
+      "카페",
+      "음악"
+    ],
+    "sampleLetterLink": "",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "142",
+    "title": "오늘회레터",
+    "description": "\"한 달에 두 번, 수산물과 관련된 다양하고 재미있는 이야기를 보내드립니다. 놓치면 아쉬운 싱싱한 소식을 메일로 받아보세요! \"",
+    "subscriptionLink": "https://www.onul-hoi.com/info/newsletter",
+    "sendingTerm": "monthly",
+    "sendingNumber": "2",
+    "sendingDay": [],
+    "category": "lifestyle",
+    "tag": [
+      "수산물",
+      "제철",
+      "안주"
+    ],
+    "sampleLetterLink": "https://www.onul-hoi.com/newsletters",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "143",
+    "title": "A CUP OF PARIS",
+    "description": "\"나른한 토요일 오후를 낭만으로 채워 줄 파리 한 잔 어떠세요?\n프랑스의 문학부터 미술, 영화, 다양한 정보까지. \n에디터들의 다채로운 시각으로 당신에게 소개합니다. ​\n구독하고 2주에 한 번 무료로 받아 보세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/106960",
+    "sendingTerm": "biweekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Sat"
+    ],
+    "category": "culture",
+    "tag": [
+      "프랑스",
+      "낭만",
+      "예술"
+    ],
+    "sampleLetterLink": "https://www.acupofparis.com/magazine",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "144",
+    "title": "김치앤칩스",
+    "description": "\"💌'김치앤칩스'는요 \n지구 속 세계 이야기\n세계 속 우리 이야기를 전하는 \n국제개발협력 뉴스레터예요🤚\n💌이런 분에게 추천해요\n국제개발협력에 관심 있거나 관련 업무를 하는 분\n초록창에서는 보지 못한 글로벌 이슈를 알고 싶은 분\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/76249",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Tue"
+    ],
+    "category": "News",
+    "tag": [
+      "글로벌 이슈",
+      "국제개발협력",
+      "세계"
+    ],
+    "sampleLetterLink": "https://page.stibee.com/archives/76249",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "145",
+    "title": "정류장停留場",
+    "description": "\"누구나 멈춰서 쉴 수 있는 정류장停留場으로 초대합니다.\n2020년 11월부터 일주일에 한 번\n잠시 마음 놓을 수 있는 시간을 마련했습니다. \n직접 쓴 수필이나 소설 한 편을 보내드리고 관련있는 책, 영화, 드라마 등 콘텐츠를 하나씩 소개합니다.\n비용 없이 편안하게 와 주세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/86971",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "category": "culture",
+    "tag": [
+      "콘텐츠",
+      "글"
+    ],
+    "sampleLetterLink": "",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "146",
+    "title": "LAWHOW",
+    "description": "\"민사(부동산), 형사(성폭력), 가사(이혼 및 상속), 기업(계약, 노무, 공정거래, 지식재산권) 분야에서 알아두면 좋은 법률 정보를 정리해서 보내드립니다.\n월 1~2회, 변호사들이 직접 알려드리는 정보를 무료로 받아보세요.\"",
+    "subscriptionLink": "https://page.stibee.com/subscriptions/108387",
+    "sendingTerm": "monthly",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "category": "social",
+    "tag": [
+      "법률"
+    ],
+    "sampleLetterLink": "",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "147",
+    "title": "노마드코더 뉴스레터",
+    "description": "\"노마드 코드의 소식(린과 니꼴라스), 노마드, 한달살이 관련 정보, 프로그래밍, 코딩 관련 정보가 궁금하시면 구독하시길! \"",
+    "subscriptionLink": "https://us16.list-manage.com/subscribe?u=a99b43453db5050f1f26b2744&id=cc02020e1a",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "category": "tech",
+    "tag": [
+      "프로그래밍",
+      "사이드 프로젝트"
+    ],
+    "sampleLetterLink": "https://us16.campaign-archive.com/home/?u=a99b43453db5050f1f26b2744&id=4313d957c9",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "148",
+    "title": "GeekNews Weekly",
+    "description": "\"매주 월요일 아침, 지난 일주일간의 GeekNews 중 엄선한 뉴스들을 이메일로 보내드립니다.\"",
+    "subscriptionLink": "https://news.hada.io/weekly",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "category": "tech",
+    "tag": [
+      "프로그래밍",
+      "개발",
+      "뉴스"
+    ],
+    "sampleLetterLink": "https://news.hada.io/weekly",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "149",
+    "title": "44BITS 뉴스레터",
+    "description": "\"44BITS 뉴스레터는, 한 주간 있었던 44BITS의 업데이트와 IT / 개발 관련 새소식을 전합니다. 다음 링크에서 뉴스레터를 구독 신청할 수 있습니다.\"",
+    "subscriptionLink": "https://mailchi.mp/3bc831e42537/44bits",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "category": "tech",
+    "tag": [
+      "IT",
+      "개발",
+      "클라우드 뉴스"
+    ],
+    "sampleLetterLink": "",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "150",
+    "title": "그랩의 IT 뉴스레터",
+    "description": "\"매주 월요일, 'IT 콘텐츠' 큐레이션 & 잘 읽히는 'IT 개발지식'을 제공합니다.\"",
+    "subscriptionLink": "https://maily.so/grabnews",
+    "sendingTerm": "weekly",
+    "sendingNumber": "1",
+    "sendingDay": [
+      "Mon"
+    ],
+    "category": "tech",
+    "tag": [
+      "IT",
+      "개발"
+    ],
+    "sampleLetterLink": "https://maily.so/grabnews",
+    "language": "ko",
+    "publishing": "true"
   }
 ]
