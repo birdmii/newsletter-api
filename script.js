@@ -48,6 +48,9 @@ function processFile() {
           if(requiredArr.includes(j) && value === '') {
             console.error(obj[header[0]] + '(col '+ j +") : required item is empty.");
           }
+          if(j === 7) {
+            value = value.toLowerCase();
+          }
           if(j === 6 || j === 8) {
             value = makeCharToArr(value)
           }
@@ -59,7 +62,7 @@ function processFile() {
           obj[header[j]] = value;
         }
       }
-      if (i !== 0) {
+      if (i !== 0 && obj.id !== "") {
         result.push(obj);
       }
     }

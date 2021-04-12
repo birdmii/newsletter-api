@@ -2688,7 +2688,7 @@
     "sendingDay": [
       "Tue"
     ],
-    "category": "News",
+    "category": "news",
     "tag": [
       "글로벌 이슈",
       "국제개발협력",
@@ -2802,6 +2802,39 @@
       "개발"
     ],
     "sampleLetterLink": "https://maily.so/grabnews",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "151",
+    "title": "UX 트렌드 리포트",
+    "description": "지금 바로 구독신청 하시고 라이트브레인이 제공하는 UX 관련 정보를 가장 먼저 받아 보세요.",
+    "subscriptionLink": "http://www.rightbrain.co.kr/CMS/ux-discovery-subscribe/",
+    "sendingTerm": "?",
+    "sendingNumber": "",
+    "sendingDay": [],
+    "category": "design",
+    "tag": [
+      "UX"
+    ],
+    "sampleLetterLink": "",
+    "language": "ko",
+    "publishing": "true"
+  },
+  {
+    "id": "152",
+    "title": "데일리 데브 블로그",
+    "description": "\"IT 기술블로거들의뜨거운 열정을 느껴보세요!\n매일 오전10시, 어제 등록된 글을 모아 전달드립니다.\"",
+    "subscriptionLink": "http://daily-devblog.com/",
+    "sendingTerm": "daily",
+    "sendingNumber": "1",
+    "sendingDay": [],
+    "category": "tech",
+    "tag": [
+      "기술블로그",
+      "개발자"
+    ],
+    "sampleLetterLink": "http://daily-devblog.com/archive",
     "language": "ko",
     "publishing": "true"
   }
