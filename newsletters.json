@@ -10,16 +10,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "design",
-    "tag": {
-      "tag": [
-        "해외 아티클"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["해외 아티클"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
@@ -35,16 +27,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "design",
-    "tag": {
-      "tag": [
-        "국내 아티클"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["국내 아티클"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/29178"
@@ -60,16 +44,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "트렌드"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["트렌드"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us8.campaign-archive.com/?e=[UNIQID]&u=2e9edbac18058219e61aab5fd&id=682f911635"
@@ -80,22 +56,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "캐릿",
-    "description": "이번 주 신선한 트렌드를 누구보다 빠르게 받아 보세요!\n오늘… 혹시 ‘라떼’ 소리 들으셨나요?\n요즘 친구들이 뭘 좋아하는지 당최 모르겠다고요?\n걱정 마세요.당신이 놓친 트렌드,\n캐릿이 빠르게 잡아서 알려드릴게요.\nMZ세대와 세 발 더 가까워질 수 있는 인사이트를\n매주 화요일 출근 전에 쏴드립니다. 렛츠 캐릿!\n",
+    "description": "이번 주 신선한 트렌드를 누구보다 빠르게 받아 보세요!\n오늘… 혹시 ‘라떼’ 소리 들으셨나요?\n요즘 친구들이 뭘 좋아하는지 당최 모르겠다고요?\n걱정 마세요.당신이 놓친 트렌드,\n캐릿이 빠르게 잡아서 알려드릴게요.\nMZ세대와 세 발 더 가까워질 수 있는 인사이트를\n매주 화요일 출근 전에 쏴드립니다. 렛츠 캐릿!\n",
     "subscriptionlink": "https://www.careet.net/Subscribe",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "트렌드",
-        "MZ세대"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["트렌드", "MZ세대"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -111,16 +78,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "marketing",
-    "tag": {
-      "tag": [
-        "트렌드"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["트렌드"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -136,16 +95,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "marketing",
-    "tag": {
-      "tag": [
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["콘텐츠"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -161,17 +112,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "브랜드",
-        "트렌드"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["브랜드", "트렌드"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -187,18 +129,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "취향",
-        "소비",
-        "트렌드"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["취향", "소비", "트렌드"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -214,16 +146,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "스타트업"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["스타트업"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -239,16 +163,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "여성"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["여성"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -264,16 +180,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "스타트업"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["스타트업"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/39990"
@@ -289,17 +197,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "밀레니얼",
-        "여성"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["밀레니얼", "여성"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -310,21 +209,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "스얼레터",
-    "description": "스타트업얼라이언스 뉴스레터🗞를 구독해주세요. \n매주 월요일 10시, 한 주간의 스얼 소식으로 여러분을 찾아갑니다.",
+    "description": "스타트업얼라이언스 뉴스레터🗞를 구독해주세요. \n매주 월요일 10시, 한 주간의 스얼 소식으로 여러분을 찾아갑니다.",
     "subscriptionlink": "https://mailchi.mp/startupall/newsletter2",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "스타트업"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["스타트업"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us8.campaign-archive.com/home/?u=8d8fee8af3a232bbab53bda55&id=80d36b5ff0"
@@ -333,23 +224,15 @@
     "id": 14,
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
+    "updated_at": "2021-08-02T14:03:28.101Z",
     "title": "ㅇㅎ!(아하레터)",
     "description": "작심삼일 반복하면 못할것이 없습니다\n\n자기계발부터 알면 이득인 정보까지!\n읽으면 아하! 깨달음을 얻는 소식들을 모아\n이메일로 보내드립니다.",
     "subscriptionlink": "https://page.stibee.com/subscriptions/61765?groupIds=56635",
     "sendingterm": "biweekly",
-    "sendingnumber": null,
+    "sendingnumber": 0,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "자기계발"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["자기계발", "마음가짐"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://aha-contents.tistory.com/category/%EC%95%84%ED%95%98%EB%A0%88%ED%84%B0%20%EC%A7%80%EB%82%9C%20%ED%98%B8%20%EB%B3%B4%EA%B8%B0"
@@ -365,16 +248,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "직장인"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["직장인"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -390,16 +265,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "자기계발"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["자기계발"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us17.campaign-archive.com/home/?u=a89600e386cefa6d4758d1106&id=3c3978422c"
@@ -410,23 +277,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "뉴닉",
-    "description": "세상 돌아가는 소식, 알고는 싶지만 신문 볼 새 없이 바쁜 게 우리 탓은 아니잖아요! 월/수/금 아침마다 세상 돌아가는 소식을 메일로 받아보세요.",
+    "description": "세상 돌아가는 소식, 알고는 싶지만 신문 볼 새 없이 바쁜 게 우리 탓은 아니잖아요! 월/수/금 아침마다 세상 돌아가는 소식을 메일로 받아보세요.",
     "subscriptionlink": "https://newneek.co/?utm_medium=email&utm_source=newneek_newsletter&utm_campaign=not_yet_subscribed&utm_content=footer_subscription_link",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "뉴스 브리핑"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Wed",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["뉴스 브리핑"] },
+    "sendingday": { "day": ["Mon", "Wed", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -442,21 +299,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "뉴스 브리핑"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri",
-        "Sat"
-      ]
-    },
+    "tag": { "tag": ["뉴스 브리핑"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -472,16 +316,8 @@
     "sendingterm": "daily",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "뉴스 브리핑"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["뉴스 브리핑"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -492,21 +328,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "Notique",
-    "description": "나에게 묻는, 나를 위한 질문\n\n매주 목요일 오후 2시, 나를 선명하게 만드는 질문이 배달됩니다.\n질문에 답하면서 자신을 발견하는 시간을 가져보세요.\n",
+    "description": "나에게 묻는, 나를 위한 질문\n\n매주 목요일 오후 2시, 나를 선명하게 만드는 질문이 배달됩니다.\n질문에 답하면서 자신을 발견하는 시간을 가져보세요.\n",
     "subscriptionlink": "https://mailchi.mp/notique/subscribe-newsletter",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "자아탐구"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["자아탐구"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -517,22 +345,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "meet me",
-    "description": "\"진짜 나\"를 만나고 싶다면, 구독하세요! \n매주 월요일 오전 10시 \"진짜 나\"를 찾아가는 사람들의 이야기와 \n마음을 위로하는 이야기가 당신의 메일로 도착합니다.\n읽기만 하는 레터가 아니예요. 나의 고민도 답장으로 보내주세요.\n",
+    "description": "\"진짜 나\"를 만나고 싶다면, 구독하세요! \n매주 월요일 오전 10시 \"진짜 나\"를 찾아가는 사람들의 이야기와 \n마음을 위로하는 이야기가 당신의 메일로 도착합니다.\n읽기만 하는 레터가 아니예요. 나의 고민도 답장으로 보내주세요.\n",
     "subscriptionlink": "https://nicetomeetme.kr/newsletter",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "자아탐구",
-        "고민"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["자아탐구", "고민"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -543,27 +362,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "머니레터",
-    "description": "사회초년생을 위한 첫 번째 경제미디어, 어피티 매주 월요일부터 금요일까지 아침 8시에 꼭 알아야 할 금융정보를 메일함으로 보내드려요.",
+    "description": "사회초년생을 위한 첫 번째 경제미디어, 어피티 매주 월요일부터 금요일까지 아침 8시에 꼭 알아야 할 금융정보를 메일함으로 보내드려요.",
     "subscriptionlink": "https://uppity.co.kr/",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "금융",
-        "재테크",
-        "사회초년생"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["금융", "재테크", "사회초년생"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/7a061d7564a24f2d8c30684dc3fec120"
@@ -579,17 +384,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "금융",
-        "재테크"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["금융", "재테크"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -605,16 +401,8 @@
     "sendingterm": "tendays",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["콘텐츠"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/_-15c98a642b694b38b25272cc660c1a4e"
@@ -630,16 +418,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "책"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["책"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/Egg-Break-s-house-815443c0520541e1a775f0441db9bcfa"
@@ -655,16 +435,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "혁신가"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["혁신가"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -673,28 +445,18 @@
     "id": 27,
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
+    "updated_at": "2021-07-27T07:22:41.291Z",
     "title": "머니네버슬립",
-    "description": "돈 버는 거, 그거 쉬운 거 아니다~\n알아야 할 것들, 확인해야 할 것들, 배워야 할 것들이 너무 많다!\n주식, 부동산, 암호화폐, 부업까지\n모르면 안 되는 정보만 뽑아!",
+    "description": "🗽미국주식에 대해 얼마나 잘 아시나요?\n🍎애플과 쿠팡 같은 기업이 바글바글한 미국 주식시장입니다.\n☺전 세계 시장의 절반인 미국 시장은 또 하나의 기회의 땅입니다.\n\n알면 돈 되는 '딱 3개~5개의 핵심 뉴스'만 정리합니다.\n3분 만에 읽고, 재테크 체력을 기르세요. 💪🏼",
     "subscriptionlink": "https://page.stibee.com/subscriptions/106246",
-    "sendingterm": "?",
-    "sendingnumber": null,
+    "sendingterm": "weekly",
+    "sendingnumber": 0,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "재테크",
-        "부동산",
-        "암호화폐"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["재테크", "미국주식", "주식뉴스"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
     "language": "ko",
     "publishing": true,
-    "samplelink": "-"
+    "samplelink": ""
   },
   {
     "id": 28,
@@ -702,22 +464,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "인사이저 투자 레터",
-    "description": "3분 투자로 기사 100개를 본 것 같은 효과 \n인사이저의 AI모델이 뽑은 주요 기사를 3분 분량의 보고서로 압축하여 보내드립니다. 매일 오전, 전날의 시황을 한 눈에!\n인사이저의 AI기반 무료 투자레터를 신청하세요.",
+    "description": "3분 투자로 기사 100개를 본 것 같은 효과 \n인사이저의 AI모델이 뽑은 주요 기사를 3분 분량의 보고서로 압축하여 보내드립니다. 매일 오전, 전날의 시황을 한 눈에!\n인사이저의 AI기반 무료 투자레터를 신청하세요.",
     "subscriptionlink": "https://incizor.com/Newsletter",
     "sendingterm": "daily",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "금융",
-        "투자"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["금융", "투자"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -733,17 +486,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "빵",
-        "음식"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["빵", "음식"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -752,23 +496,15 @@
     "id": 30,
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
+    "updated_at": "2021-05-15T15:39:57.074Z",
     "title": "오디티 스테이션",
-    "description": "매주 목요일 아침, 당신의 메일함에 음악과 이야기를 보내드립니다.",
+    "description": "매주 목요일 아침, 당신의 메일함에 음악과 이야기를 보내드립니다.",
     "subscriptionlink": "https://mailchi.mp/37b398c233e7/oddity-station-by-space-oddity",
-    "sendingterm": "weekly",
+    "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "음악"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["음악"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us12.campaign-archive.com/home/?u=b8884d9c803717ac5a17fbdaa&id=b7b9db50fe"
@@ -779,23 +515,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "퍼블리",
-    "description": "생산성, 매니지먼트, 비즈니스에서부터 영감과 자극까지.\n\"일하는 사람들\"을 위한 읽을거리를 퍼블리가 큐레이션했습니다.\n\n국내에서는 접하기 어려운 정보들,\n매주 금요일에 메일함으로 받아 보세요.",
+    "description": "생산성, 매니지먼트, 비즈니스에서부터 영감과 자극까지.\n\"일하는 사람들\"을 위한 읽을거리를 퍼블리가 큐레이션했습니다.\n\n국내에서는 접하기 어려운 정보들,\n매주 금요일에 메일함으로 받아 보세요.",
     "subscriptionlink": "https://publy.us11.list-manage.com/subscribe?u=8e469b932eaa730d3a89bc869&id=f64c75daf2",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "자기계발",
-        "생산성",
-        "비즈니스"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["자기계발", "생산성", "비즈니스"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -811,17 +537,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "블록체인",
-        "암호화폐"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["블록체인", "암호화폐"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -837,16 +554,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "할머니"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["할머니"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://linktr.ee/harmonyletter"
@@ -862,17 +571,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["콘텐츠"] },
+    "sendingday": { "day": ["Mon", "Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://stibee.com/api/v1.0/emails/share/_kSh8-keWKtWwkQ01B0Eu0P09mDe9A=="
@@ -888,18 +588,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "공간",
-        "도시",
-        "사람"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["공간", "도시", "사람"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -910,25 +600,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "아웃스탠딩",
-    "description": "어려운 IT이슈를 쉽고 재미있게 풀어드립니다.\n아웃스탠딩 뉴스레터는\n매주 월요일부터 금요일까지 오후 7시에 발송됩니다.\n뉴스레터는 아웃스탠딩 자체 콘텐츠인 \"아티클\"과\n아웃스탠딩이 추천한 외부 콘텐츠 \"셀렉트\"로\n구성되어 있습니다.",
+    "description": "어려운 IT이슈를 쉽고 재미있게 풀어드립니다.\n아웃스탠딩 뉴스레터는\n매주 월요일부터 금요일까지 오후 7시에 발송됩니다.\n뉴스레터는 아웃스탠딩 자체 콘텐츠인 \"아티클\"과\n아웃스탠딩이 추천한 외부 콘텐츠 \"셀렉트\"로\n구성되어 있습니다.",
     "subscriptionlink": "https://outstanding.us1.list-manage.com/subscribe?u=58649932600b1a93ad942d0a7&id=546a6b6aba",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "IT"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["IT"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -944,17 +622,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "실무"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["실무"] },
+    "sendingday": { "day": ["Mon", "Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -970,17 +639,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "해외 비즈니스"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["해외 비즈니스"] },
+    "sendingday": { "day": ["Tue", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://coffeepot.me/"
@@ -991,23 +651,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "여름의 솜사탕",
-    "description": "[여름의 솜사탕]은 제 취향 가득 담은 생활밀착형 뉴스레터입니다. 매주 수요일, 소소하지만 기분 좋은 솜사탕같은 에세이를 전해드려요. 좋아하는 책이나 읽을거리, 음악도 하나씩 소개하고요. 수면바지 입고 슬리퍼 신고 동네 친구 만나는 기분으로 메일을 열어주세요.",
+    "description": "[여름의 솜사탕]은 제 취향 가득 담은 생활밀착형 뉴스레터입니다. 매주 수요일, 소소하지만 기분 좋은 솜사탕같은 에세이를 전해드려요. 좋아하는 책이나 읽을거리, 음악도 하나씩 소개하고요. 수면바지 입고 슬리퍼 신고 동네 친구 만나는 기분으로 메일을 열어주세요.",
     "subscriptionlink": "https://mailchi.mp/9e0e525bc03b/summercandy/#brunchintroduce",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "개인의 취향",
-        " 음악",
-        " 읽을거리"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["개인의 취향", " 음악", " 읽을거리"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1023,18 +673,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "개인의 취향",
-        "콘텐츠",
-        "마케터"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["개인의 취향", "콘텐츠", "마케터"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/daisy611/J-d3ef9dc886d746e8b65343036f059300"
@@ -1045,22 +685,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "비마이펫",
-    "description": "우리 아이의 시간을 행복하게 비마이펫 뉴스레터, 발자국 국내 최대 반려동물 지식 정보 채널, ‘비마이펫 라이프’가  만든 뉴스레터 서비스입니다",
+    "description": "우리 아이의 시간을 행복하게 비마이펫 뉴스레터, 발자국 국내 최대 반려동물 지식 정보 채널, ‘비마이펫 라이프’가  만든 뉴스레터 서비스입니다",
     "subscriptionlink": "https://mypetlife.co.kr/subscribe/",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "반려동물"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["반려동물"] },
+    "sendingday": { "day": ["Wed", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us17.campaign-archive.com/home/?u=b41507f1f17cbe76293cde76c&id=5dae4e2094"
@@ -1071,21 +702,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "온더레코드",
-    "description": "새로운 배움을 찾는 교육자들을 위한 특별한 뉴스레터가 매주 화요일 아침 여러분의 메일함으로 찾아갑니다. ",
+    "description": "새로운 배움을 찾는 교육자들을 위한 특별한 뉴스레터가 매주 화요일 아침 여러분의 메일함으로 찾아갑니다. ",
     "subscriptionlink": "https://mailchi.mp/657ce4880fff/otrnewsletter",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "education",
-    "tag": {
-      "tag": [
-        "교육"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["교육"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us18.campaign-archive.com/home/?u=032174c6f9f9e9c9630557ef1&id=84b8365d0f"
@@ -1101,17 +724,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "개인의 취향",
-        "일상"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Sun"
-      ]
-    },
+    "tag": { "tag": ["개인의 취향", "일상"] },
+    "sendingday": { "day": ["Sun"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://lnky.in/mangossupermarket"
@@ -1127,17 +741,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "비즈니스",
-        "투자"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Sun"
-      ]
-    },
+    "tag": { "tag": ["비즈니스", "투자"] },
+    "sendingday": { "day": ["Sun"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://hyuni.substack.com/"
@@ -1153,18 +758,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "테크",
-        "스타트업",
-        "VC"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["테크", "스타트업", "VC"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://hur.substack.com/"
@@ -1180,18 +775,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "콘텐츠",
-        "영화",
-        "드라마"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["콘텐츠", "영화", "드라마"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://video-jockey.com/archive"
@@ -1207,16 +792,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "음식"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["음식"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": ""
@@ -1232,16 +809,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "글"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Sun"
-      ]
-    },
+    "tag": { "tag": ["글"] },
+    "sendingday": { "day": ["Sun"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/59924"
@@ -1257,16 +826,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "취향"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["취향"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/3fab1d84b6cd4654b6e964f23b362c47?v=c54c17ff83414064800bc0f1562bcd6c"
@@ -1277,23 +838,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "STONE",
-    "description": "브랜딩&마케팅 전문가 그룹 STONE이 선별한 최신 글로벌 브랜딩 트렌드와 디자인, 마케팅, 비즈니스 전략을 담은 인사이트를 매주 여러분의 이메일로 받아보세요.",
+    "description": "브랜딩&마케팅 전문가 그룹 STONE이 선별한 최신 글로벌 브랜딩 트렌드와 디자인, 마케팅, 비즈니스 전략을 담은 인사이트를 매주 여러분의 이메일로 받아보세요.",
     "subscriptionlink": "https://stonebc.com/newsletter",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "비즈니스",
-        "마케팅",
-        "트렌드"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["비즈니스", "마케팅", "트렌드"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1309,17 +860,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "IT",
-        "개발자"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["IT", "개발자"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://blog.gaerae.com/search/label/newsletter"
@@ -1335,17 +877,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "marketing",
-    "tag": {
-      "tag": [
-        "MZ세대",
-        "대학생"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["MZ세대", "대학생"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1361,18 +894,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "사람",
-        "인사이트",
-        "트렌드"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["사람", "인사이트", "트렌드"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1388,18 +911,8 @@
     "sendingterm": "daily",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "이슈",
-        "뉴스 브리핑",
-        "국제신문"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["이슈", "뉴스 브리핑", "국제신문"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1415,17 +928,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "시사",
-        "한겨레"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["시사", "한겨레"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/98338"
@@ -1436,24 +940,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "뉴잼",
-    "description": "바쁜 일상, 넘치는 정보, 똑같은 뉴스에 지치셨나요? 핵심만 쏙쏙 뽑은 유용한 뉴스, 남다른 이야기를 매주 화요일과 금요일 배달해드립니다. ",
+    "description": "바쁜 일상, 넘치는 정보, 똑같은 뉴스에 지치셨나요? 핵심만 쏙쏙 뽑은 유용한 뉴스, 남다른 이야기를 매주 화요일과 금요일 배달해드립니다. ",
     "subscriptionlink": "https://www.hankookilbo.com/NewsLetter/NewsJam",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "뉴스 브리핑",
-        "이야기",
-        "한국일보"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["뉴스 브리핑", "이야기", "한국일보"] },
+    "sendingday": { "day": ["Tue", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1469,17 +962,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "테크 이슈",
-        "중앙일보"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["테크 이슈", "중앙일보"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1490,23 +974,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "미라클레터",
-    "description": "‘혁신하는 이들을 위한’ 미라클레터입니다 📧\n매경미디어그룹에서 테크 트렌드, 글로벌 트렌드, 실리콘밸리 현장 소식을 인사이트 있게 담아서, 주3회 오전 6~9시에 이메일로 보내드리고 있어요. ",
+    "description": "‘혁신하는 이들을 위한’ 미라클레터입니다 📧\n매경미디어그룹에서 테크 트렌드, 글로벌 트렌드, 실리콘밸리 현장 소식을 인사이트 있게 담아서, 주3회 오전 6~9시에 이메일로 보내드리고 있어요. ",
     "subscriptionlink": "https://page.stibee.com/subscriptions/33271",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "테크 트렌드",
-        "실리콘밸리",
-        "매일경제"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["테크 트렌드", "실리콘밸리", "매일경제"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1522,17 +996,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "뉴스 브리핑",
-        "오늘의 이슈"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["뉴스 브리핑", "오늘의 이슈"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://upcle.me/archives/category/newsletter"
@@ -1548,17 +1013,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "이슈",
-        "SBS"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["이슈", "SBS"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/56136"
@@ -1574,16 +1030,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "출판"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["출판"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1599,17 +1047,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "테크"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["테크"] },
+    "sendingday": { "day": ["Mon", "Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us4.campaign-archive.com/home/?u=fac734f2470934a937f9d902c&id=0fd8d1e102"
@@ -1625,16 +1064,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "이슈"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["이슈"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1650,18 +1081,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "개인의 취향",
-        "콘텐츠",
-        "리뷰"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["개인의 취향", "콘텐츠", "리뷰"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/lostandfound1738/20d04a65707441caa9d200af24b3d9db"
@@ -1672,22 +1093,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "부딩",
-    "description": "내 집 마련을 위한 3분 \n부.알.못 밀레니얼을 위한\n구독형 부동산 뉴스레터, 부딩\n 매주 월·목요일 아침\n어려운 부동산 이슈를\n 가장 쉬운 언어로 보내드립니다. \n",
+    "description": "내 집 마련을 위한 3분 \n부.알.못 밀레니얼을 위한\n구독형 부동산 뉴스레터, 부딩\n 매주 월·목요일 아침\n어려운 부동산 이슈를\n 가장 쉬운 언어로 보내드립니다. \n",
     "subscriptionlink": "https://www.booding.co/",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "부동산"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["부동산"] },
+    "sendingday": { "day": ["Mon", "Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1703,18 +1115,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "환경",
-        "인권",
-        "마이너 이슈"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["환경", "인권", "마이너 이슈"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1730,17 +1132,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "부동산",
-        "투자"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["부동산", "투자"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1756,19 +1149,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "이슈",
-        "시사"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Wed",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["이슈", "시사"] },
+    "sendingday": { "day": ["Mon", "Wed", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://theslang.co/27"
@@ -1784,18 +1166,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "주말",
-        "핫플",
-        "집콕"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["주말", "핫플", "집콕"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/2937e3e4f9884521a79198eac3cd07ef"
@@ -1811,18 +1183,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "일상",
-        "즐거움",
-        "새로움"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["일상", "즐거움", "새로움"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/madxcompany/b41ec2bbfe7e4191ac53cd43a86756dd"
@@ -1838,18 +1200,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "시골",
-        "공간",
-        "사람"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["시골", "공간", "사람"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1865,18 +1217,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "출판",
-        "책",
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["출판", "책", "콘텐츠"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/74783"
@@ -1892,18 +1234,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "회계",
-        "세무",
-        "재무관리"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["회계", "세무", "재무관리"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1919,18 +1251,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "여행",
-        "항공",
-        "숙박"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["여행", "항공", "숙박"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/14fe3c695a4649a2986edaea9884df2f"
@@ -1946,16 +1268,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "실리콘밸리"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["실리콘밸리"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us4.campaign-archive.com/home/?u=e1e73f48c1c799f7aa2410f8d&id=0db1af86d0"
@@ -1966,21 +1280,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "워브",
-    "description": "온라인 비즈니스 종합 정보 편지 워브(wob) 매주 목요일 온라인 비즈니스에 대한 정보를 보내드려요. \n각자의 자리에서 바쁘게 살고 있는 여러분들에게 온라인 비즈니스를 위한 모든 정보를 매주 드리겠습니다. 지하철&버스안에서, 사무실에서, 학교, 집에서 당신의 온라인비즈니스 스킬이 성장하게 됩니다.\n",
+    "description": "온라인 비즈니스 종합 정보 편지 워브(wob) 매주 목요일 온라인 비즈니스에 대한 정보를 보내드려요. \n각자의 자리에서 바쁘게 살고 있는 여러분들에게 온라인 비즈니스를 위한 모든 정보를 매주 드리겠습니다. 지하철&버스안에서, 사무실에서, 학교, 집에서 당신의 온라인비즈니스 스킬이 성장하게 됩니다.\n",
     "subscriptionlink": "https://mailchi.mp/d336b0cf01b1/wob",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "온라인 비즈니스"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["온라인 비즈니스"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -1996,17 +1302,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "모임",
-        "이벤트"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["모임", "이벤트"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2022,17 +1319,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "marketing",
-    "tag": {
-      "tag": [
-        "콘텐츠",
-        "미디어"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["콘텐츠", "미디어"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/55500"
@@ -2048,18 +1336,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "비즈니스",
-        "이슈",
-        "해외"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["비즈니스", "이슈", "해외"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2075,21 +1353,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "글로벌 금융",
-        " 글로벌 경제"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["글로벌 금융", " 글로벌 경제"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://soonsal.com/newsletters"
@@ -2105,18 +1370,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "창업",
-        "스타트업",
-        "데모데이"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["창업", "스타트업", "데모데이"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://sensible.kr/box"
@@ -2132,17 +1387,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "미디어",
-        "트렌드"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["미디어", "트렌드"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/66aabc1324a046b98b4ef997df4f1227"
@@ -2153,26 +1399,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "모야",
-    "description": "해외 주요 기업 뉴스를 한글로 번역해서 매일 보내드립니다.\n전문 번역사가 정확하게 번역한 글로벌 주요 기업 뉴스를 매일 받아볼 수 있습니다.\n",
+    "description": "해외 주요 기업 뉴스를 한글로 번역해서 매일 보내드립니다.\n전문 번역사가 정확하게 번역한 글로벌 주요 기업 뉴스를 매일 받아볼 수 있습니다.\n",
     "subscriptionlink": "https://www.wisetranslate.net/moya/global_news/newsletter#subscription",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "해외 뉴스",
-        "글로벌 기업"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["해외 뉴스", "글로벌 기업"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2188,18 +1421,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "marketing",
-    "tag": {
-      "tag": [
-        "마케팅",
-        "크리에이터",
-        "읽을거리"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["마케팅", "크리에이터", "읽을거리"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/3"
@@ -2215,18 +1438,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "행사",
-        "모임",
-        "이벤트"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["행사", "모임", "이벤트"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/EVENT-LETTER-b8bf340a45c1421abaf6091593cdec53"
@@ -2242,18 +1455,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "소셜섹터",
-        "인터뷰",
-        "읽을거리"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["소셜섹터", "인터뷰", "읽을거리"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2269,17 +1472,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "맥주",
-        "수제맥주"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["맥주", "수제맥주"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2295,19 +1489,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "시사",
-        "상식"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Wed",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["시사", "상식"] },
+    "sendingday": { "day": ["Mon", "Wed", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2323,18 +1506,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "주거",
-        "공간",
-        "집"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["주거", "공간", "집"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2343,53 +1516,35 @@
     "id": 90,
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
+    "updated_at": "2021-07-26T09:36:53.635Z",
     "title": "위키드 와인레터",
-    "description": "3분만에 와인전문가가 되는 법, 위키드 와인레터 단숨에 읽어내릴 수 있는 쉽고 재미있는 와인레터를 꾸준히 구독하다보면 어느새 와인전문가가 되어있는 나를 발견할 수 있을거에요! 최신 위키드 소식은 덤입니다. ",
+    "description": "3분만에 와인전문가가 되는 법, 위키드 와인레터 단숨에 읽어내릴 수 있는 쉽고 재미있는 와인레터를 꾸준히 구독하다보면 어느새 와인전문가가 되어있는 나를 발견할 수 있을거에요! 최신 위키드 소식은 덤입니다. ",
     "subscriptionlink": "https://page.stibee.com/subscriptions/80149",
     "sendingterm": "?",
-    "sendingnumber": null,
+    "sendingnumber": 0,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "와인",
-        "음식"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["포도 공부", "음식", "페어링"] },
+    "sendingday": { "day": ["Mon", "Wed", "Fri"] },
     "language": "ko",
     "publishing": true,
-    "samplelink": "-"
+    "samplelink": ""
   },
   {
     "id": 91,
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
+    "updated_at": "2021-07-27T06:08:03.836Z",
     "title": "SPREAD by B",
     "description": "매거진 <B>가 큐레이션한 브랜드 이야기를 매주 전달합니다.",
     "subscriptionlink": "https://magazine-b.co.kr/newsletter/",
     "sendingterm": "weekly",
-    "sendingnumber": null,
+    "sendingnumber": 0,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "브랜드",
-        "마케팅"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["브랜드", "마케팅", "인터뷰"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
-    "samplelink": "-"
+    "samplelink": ""
   },
   {
     "id": 92,
@@ -2397,21 +1552,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "Semtong",
-    "description": "국내 1위 성능 모니터링 회사이자, \n인공지능(AI), 빅데이터, 클라우드 기술로 각광받는 엑셈이 발행하는 뉴스레터 Semtong입니다.\n월 1회 회사 소식과 함께 시장에 대한 인사이트, IT 기술 이야기, 기술 동향 등 \nIT 업계에 대한 전반적인 소식을 확인할 수 있습니다. 매 달 진행되는 이벤트도 놓치지 마세요!",
+    "description": "국내 1위 성능 모니터링 회사이자, \n인공지능(AI), 빅데이터, 클라우드 기술로 각광받는 엑셈이 발행하는 뉴스레터 Semtong입니다.\n월 1회 회사 소식과 함께 시장에 대한 인사이트, IT 기술 이야기, 기술 동향 등 \nIT 업계에 대한 전반적인 소식을 확인할 수 있습니다. 매 달 진행되는 이벤트도 놓치지 마세요!",
     "subscriptionlink": "https://ex-em.us17.list-manage.com/subscribe?u=93275d302c5a60aad1ee60cae&id=e11f5128f8",
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "IT"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["IT"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2427,16 +1574,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "design",
-    "tag": {
-      "tag": [
-        "브랜딩"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["브랜딩"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2447,22 +1586,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "일간 바이라인",
-    "description": "바이라인네트워크는 매일 아침 뉴스레터 ‘일간 바이라인’을 구독자 님들께 보내드립니다. 일간 바이라인은 독자님들께 저희 기자들이 보내는 편지입니다.저희의 관심, 일상, 고민을 독자님들과 함께 나누고 싶어서 시작했습니다. ",
+    "description": "바이라인네트워크는 매일 아침 뉴스레터 ‘일간 바이라인’을 구독자 님들께 보내드립니다. 일간 바이라인은 독자님들께 저희 기자들이 보내는 편지입니다.저희의 관심, 일상, 고민을 독자님들과 함께 나누고 싶어서 시작했습니다. ",
     "subscriptionlink": "https://byline.network/newsletter/",
     "sendingterm": "daily",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "IT",
-        "기술"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["IT", "기술"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us18.campaign-archive.com/home/?u=bedb3ad13e513e25afa719b73&id=81db217913"
@@ -2478,16 +1608,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "HR"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["HR"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2503,17 +1625,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "HR",
-        "실무"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["HR", "실무"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us10.campaign-archive.com/home/?u=6ba6831445577be6202fb34a2&id=51a82e5f98"
@@ -2524,21 +1637,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "콘텐타",
-    "description": "매주 목요일 4시! 최신 콘텐츠 마케팅 뉴스를 보내드립니다. 이메일로 편하게 받아보세요. \n",
+    "description": "매주 목요일 4시! 최신 콘텐츠 마케팅 뉴스를 보내드립니다. 이메일로 편하게 받아보세요. \n",
     "subscriptionlink": "https://contenta.us11.list-manage.com/subscribe?u=523d409bed29cb7c8ac20053e&id=a5236545a0",
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "marketing",
-    "tag": {
-      "tag": [
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["콘텐츠"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2554,17 +1659,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "marketing",
-    "tag": {
-      "tag": [
-        "트렌드",
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["트렌드", "콘텐츠"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2580,18 +1676,8 @@
     "sendingterm": "daily",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "국내외",
-        "비즈니스",
-        "쉬운"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["국내외", "비즈니스", "쉬운"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2607,18 +1693,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "에세이",
-        "경험",
-        "생각"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["에세이", "경험", "생각"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2634,17 +1710,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "점심 메뉴",
-        "스몰토크"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["점심 메뉴", "스몰토크"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/76d15011743f41ef8ec66078b4c10504"
@@ -2660,16 +1727,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "뉴스레터"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["뉴스레터"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/62723"
@@ -2685,17 +1744,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "인문학",
-        "글"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["인문학", "글"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "http://minumsa.com/community/pubserially/?trm=228"
@@ -2711,18 +1761,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "창작",
-        "영감",
-        "읽을거리"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["창작", "영감", "읽을거리"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2738,17 +1778,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "일상",
-        "읽을거리"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["일상", "읽을거리"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/55692"
@@ -2764,18 +1795,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "출판",
-        "책",
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["출판", "책", "콘텐츠"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.book-stone.co.kr/letter"
@@ -2791,16 +1812,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "음악"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["음악"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://maily.so/draft.briefing/posts?keyword=%EB%B0%A4%EB%A0%88%ED%84%B0"
@@ -2816,18 +1829,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "음악 산업",
-        "미디어",
-        "테크"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Sat"
-      ]
-    },
+    "tag": { "tag": ["음악 산업", "미디어", "테크"] },
+    "sendingday": { "day": ["Sat"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://maily.so/draft.briefing/posts?keyword=%EC%BB%A4%ED%94%BC%EB%B8%8C%EB%A6%AC%ED%95%91"
@@ -2843,18 +1846,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "제주의 삶",
-        "인사이트",
-        "모임"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["제주의 삶", "인사이트", "모임"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://jejusquare.kr/newsletter"
@@ -2870,18 +1863,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "인문학",
-        "교양",
-        "연극"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["인문학", "교양", "연극"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2897,16 +1880,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "독립영화"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["독립영화"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -2922,16 +1897,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "음악"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["음악"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/ARCHIVE-eddd1868837544c7aa6bbdcbc02ae533"
@@ -2947,17 +1914,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "직장생활",
-        "사이다노동법"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["직장생활", "사이다노동법"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/65672"
@@ -2973,17 +1931,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "미술",
-        "예술"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["미술", "예술"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "http://junghyunkwon.kr/chch-letter/"
@@ -2999,17 +1948,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "식물",
-        "24절기"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["식물", "24절기"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/75404"
@@ -3025,18 +1965,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "개인의 취향",
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Sat",
-        "Sun"
-      ]
-    },
+    "tag": { "tag": ["개인의 취향", "콘텐츠"] },
+    "sendingday": { "day": ["Sat", "Sun"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/ABOUT-SUMMARY-EDIT-4d5eb4de31d54ecb8a07c6a27b797b52"
@@ -3052,16 +1982,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "음식"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["음식"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/From-bc650d9c479e47a6a0050da969a10859"
@@ -3070,25 +1992,15 @@
     "id": 118,
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
-    "title": "이벤트 레터",
+    "updated_at": "2021-07-26T02:44:43.453Z",
+    "title": "이상파랑",
     "description": "혼자이고 싶지 않은 괴짜들로부터,\n마음껏 사랑할 것들을 소개받고 싶은 당신에게.\n\n취향 큐레이션 레터 서비스 '이상파랑'입니다.",
     "subscriptionlink": "https://page.stibee.com/subscriptions/75414",
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "취향",
-        "콘텐츠",
-        "읽을거리"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["취향", "콘텐츠", "읽을거리"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/the-weird-waves-2ac49911063242d9a3ede4a3771a9f9d"
@@ -3104,18 +2016,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "트렌드",
-        "영감",
-        "마케팅"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["트렌드", "영감", "마케팅"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/72985"
@@ -3124,23 +2026,15 @@
     "id": 120,
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
-    "title": "당근레터",
+    "updated_at": "2021-08-02T13:59:43.828Z",
+    "title": "당근메일",
     "description": "열정적인 여러분들의 시간을 조금이라도 더 아껴드리기 위해, 다양한 개인과 업무 생산성 팁틀을 전달합니다. 마치 일과 생활에서 여러분만의 비밀무기가 될 수 있도록...",
     "subscriptionlink": "https://www.carrotmail.kr/",
     "sendingterm": "weekly",
-    "sendingnumber": null,
+    "sendingnumber": 0,
     "category": "work",
-    "tag": {
-      "tag": [
-        "생산성"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["생산성"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.carrotmail.kr/2fc7f4cc-4a5c-42d7-b7d3-38b0ac989f06"
@@ -3156,18 +2050,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "IT",
-        "웹",
-        "앱"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["IT", "웹", "앱"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3183,16 +2067,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "금융 이슈"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["금융 이슈"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.fnnews.com/pineapple"
@@ -3208,17 +2084,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "클래식",
-        "음악"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["클래식", "음악"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3234,16 +2101,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "부동산"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Sun"
-      ]
-    },
+    "tag": { "tag": ["부동산"] },
+    "sendingday": { "day": ["Sun"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3259,18 +2118,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "신용카드",
-        "체크카드",
-        "소비"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["신용카드", "체크카드", "소비"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.card-gorilla.com/contents/detail/1532?utm_source=CGletter&utm_medium=form"
@@ -3286,16 +2135,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "공연"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["공연"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://festivallife.kr/newsletter"
@@ -3311,18 +2152,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "돈",
-        "요즘 이슈"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["돈", "요즘 이슈"] },
+    "sendingday": { "day": ["Mon", "Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://kdpost.tistory.com/notice/55"
@@ -3338,18 +2169,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "강연",
-        "성장",
-        "이야기"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["강연", "성장", "이야기"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/56d2ea9c1d0c4f48962a2115a016895e"
@@ -3365,21 +2186,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "독서",
-        "책"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["독서", "책"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3395,16 +2203,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "work",
-    "tag": {
-      "tag": [
-        "프리랜서"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["프리랜서"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3420,16 +2220,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "문화예술"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["문화예술"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://antiegg.kr/INTRO@7224170"
@@ -3445,16 +2237,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "반려동물"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["반려동물"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3470,20 +2254,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "education",
-    "tag": {
-      "tag": [
-        "영어 공부"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["영어 공부"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/2d00246879e74e5ba7931397ec8ac679"
@@ -3499,17 +2271,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "반려묘",
-        "고양이"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Sun"
-      ]
-    },
+    "tag": { "tag": ["반려묘", "고양이"] },
+    "sendingday": { "day": ["Sun"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/81545"
@@ -3525,18 +2288,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "채식",
-        "비건",
-        "환경"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["채식", "비건", "환경"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/2bf38bac7aa448b7afc585c2ebaae0ad"
@@ -3552,17 +2305,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "일상",
-        "에세이"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["일상", "에세이"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3578,17 +2322,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "책",
-        "도서관"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["책", "도서관"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://docs.google.com/document/d/1rPe0x-jER0rTnkSZvIm3R0zucxQsy-5TBzcicyMMaaA/edit"
@@ -3604,17 +2339,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "트렌드",
-        "콘텐츠"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["트렌드", "콘텐츠"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3630,16 +2356,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "책"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["책"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3655,17 +2373,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "금융",
-        "초보"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["금융", "초보"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://punpun.co.kr/punpun-letters/"
@@ -3681,18 +2390,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "커피",
-        "카페",
-        "음악"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["커피", "카페", "음악"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3708,18 +2407,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "수산물",
-        "제철",
-        "안주"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["수산물", "제철", "안주"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.onul-hoi.com/newsletters"
@@ -3730,23 +2419,13 @@
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
     "title": "A CUP OF PARIS",
-    "description": "나른한 토요일 오후를 낭만으로 채워 줄 파리 한 잔 어떠세요?\n\n프랑스의 문학부터 미술, 영화, 다양한 정보까지. \n에디터들의 다채로운 시각으로 당신에게 소개합니다. ​\n구독하고 2주에 한 번 무료로 받아 보세요.",
+    "description": "나른한 토요일 오후를 낭만으로 채워 줄 파리 한 잔 어떠세요?\n\n프랑스의 문학부터 미술, 영화, 다양한 정보까지. \n에디터들의 다채로운 시각으로 당신에게 소개합니다. ​\n구독하고 2주에 한 번 무료로 받아 보세요.",
     "subscriptionlink": "https://page.stibee.com/subscriptions/106960",
     "sendingterm": "biweekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "프랑스",
-        "낭만",
-        "예술"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Sat"
-      ]
-    },
+    "tag": { "tag": ["프랑스", "낭만", "예술"] },
+    "sendingday": { "day": ["Sat"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.acupofparis.com/magazine"
@@ -3762,18 +2441,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "news",
-    "tag": {
-      "tag": [
-        "글로벌 이슈",
-        "국제개발협력",
-        "세계"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["글로벌 이슈", "국제개발협력", "세계"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/76249"
@@ -3789,17 +2458,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "콘텐츠",
-        "글"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["콘텐츠", "글"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3815,16 +2475,8 @@
     "sendingterm": "monthly",
     "sendingnumber": null,
     "category": "society",
-    "tag": {
-      "tag": [
-        "법률"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["법률"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3840,17 +2492,8 @@
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "프로그래밍",
-        "사이드 프로젝트"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["프로그래밍", "사이드 프로젝트"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://us16.campaign-archive.com/home/?u=a99b43453db5050f1f26b2744&id=4313d957c9"
@@ -3859,55 +2502,18 @@
     "id": 148,
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
+    "updated_at": "2021-07-27T09:46:33.784Z",
     "title": "GeekNews Weekly",
     "description": "매주 월요일 아침, 지난 일주일간의 GeekNews 중 엄선한 뉴스들을 이메일로 보내드립니다.",
     "subscriptionlink": "https://news.hada.io/weekly",
     "sendingterm": "weekly",
-    "sendingnumber": null,
+    "sendingnumber": 0,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "프로그래밍",
-        "개발",
-        "뉴스"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["프로그래밍", "뉴스기사 요약", "기술뉴스"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://news.hada.io/weekly"
-  },
-  {
-    "id": 149,
-    "published_at": "2021-04-13T14:25:52.847Z",
-    "created_at": "2021-04-13T14:24:47.227Z",
-    "updated_at": "2021-04-13T14:24:47.227Z",
-    "title": "44BITS 뉴스레터",
-    "description": "44BITS 뉴스레터는, 한 주간 있었던 44BITS의 업데이트와 IT / 개발 관련 새소식을 전합니다. 다음 링크에서 뉴스레터를 구독 신청할 수 있습니다.",
-    "subscriptionlink": "https://mailchi.mp/3bc831e42537/44bits",
-    "sendingterm": "weekly",
-    "sendingnumber": null,
-    "category": "tech",
-    "tag": {
-      "tag": [
-        "IT",
-        "개발",
-        "클라우드 뉴스"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
-    "language": "ko",
-    "publishing": true,
-    "samplelink": "-"
   },
   {
     "id": 150,
@@ -3920,17 +2526,8 @@
     "sendingterm": "weekly",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "IT",
-        "개발"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["IT", "개발"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://maily.so/grabnews"
@@ -3940,22 +2537,14 @@
     "published_at": "2021-04-13T14:25:52.847Z",
     "created_at": "2021-04-13T14:24:47.227Z",
     "updated_at": "2021-04-13T14:24:47.227Z",
-    "title": "UX 트렌드 리포트",
+    "title": "UX 트렌드 리포트",
     "description": "지금 바로 구독신청 하시고 라이트브레인이 제공하는 UX 관련 정보를 가장 먼저 받아 보세요.",
     "subscriptionlink": "http://www.rightbrain.co.kr/CMS/ux-discovery-subscribe/",
     "sendingterm": "?",
     "sendingnumber": null,
     "category": "design",
-    "tag": {
-      "tag": [
-        "UX"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["UX"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "-"
@@ -3971,17 +2560,8 @@
     "sendingterm": "daily",
     "sendingnumber": null,
     "category": "tech",
-    "tag": {
-      "tag": [
-        "기술블로그",
-        "개발자"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["기술블로그", "개발자"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "http://daily-devblog.com/archive"
@@ -3997,17 +2577,8 @@
     "sendingterm": "biweekly",
     "sendingnumber": 1,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "책들의 이야기",
-        "독서"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue"
-      ]
-    },
+    "tag": { "tag": ["책들의 이야기", "독서"] },
+    "sendingday": { "day": ["Tue"] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
@@ -4023,17 +2594,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "work",
-    "tag": {
-      "tag": [
-        "스트레스",
-        "사회생활"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["스트레스", "사회생활"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
@@ -4049,18 +2611,8 @@
     "sendingterm": "daily",
     "sendingnumber": null,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "한국경제",
-        "주식 투자",
-        "해외 뉴스"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["한국경제", "주식 투자", "해외 뉴스"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
@@ -4076,18 +2628,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "뉴 미디어",
-        "이커머스",
-        "IT 뉴스"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Wed"
-      ]
-    },
+    "tag": { "tag": ["뉴 미디어", "이커머스", "IT 뉴스"] },
+    "sendingday": { "day": ["Wed"] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
@@ -4103,16 +2645,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "음식"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["음식"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
@@ -4128,18 +2662,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "자기계발",
-        "혁신사례",
-        "시장 트렌드"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["자기계발", "혁신사례", "시장 트렌드"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.notion.so/f57dc2a382f9443dba666103f3a4107f"
@@ -4155,23 +2679,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 6,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "암호화폐",
-        "블록체인",
-        "한겨례"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri",
-        "Sat"
-      ]
-    },
+    "tag": { "tag": ["암호화폐", "블록체인", "한겨례"] },
+    "sendingday": { "day": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.coindeskkorea.com/news/articleList.html?view_type=sm"
@@ -4187,18 +2696,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "economy",
-    "tag": {
-      "tag": [
-        "매일경제",
-        "블록체인",
-        "암호화폐"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["매일경제", "블록체인", "암호화폐"] },
+    "sendingday": { "day": ["Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/30830"
@@ -4214,18 +2713,8 @@
     "sendingterm": "monthly",
     "sendingnumber": 3,
     "category": "culture",
-    "tag": {
-      "tag": [
-        "콘텐츠",
-        "드라마",
-        "영화"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        ""
-      ]
-    },
+    "tag": { "tag": ["콘텐츠", "드라마", "영화"] },
+    "sendingday": { "day": [""] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/105472"
@@ -4241,17 +2730,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "뇌",
-        "마음"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Thu"
-      ]
-    },
+    "tag": { "tag": ["뇌", "마음"] },
+    "sendingday": { "day": ["Thu"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://www.maumproject.me/"
@@ -4260,23 +2740,15 @@
     "id": 163,
     "published_at": "2021-04-30T04:13:33.580Z",
     "created_at": "2021-04-30T04:13:30.943Z",
-    "updated_at": "2021-04-30T04:13:33.605Z",
+    "updated_at": "2021-07-27T07:26:30.779Z",
     "title": "스-윗 SWEET",
     "description": "영어 표현은 내가 줄게, 공부는 누가 할래? (그건 바로 너)\n매주 필수 영어 표현, 진짜 대화 패턴, 글로벌  시사 단어까지  메일로 받아봐!",
     "subscriptionlink": "https://page.stibee.com/subscriptions/86586",
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "education",
-    "tag": {
-      "tag": [
-        "영어 공부"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["영어 공부", "영어회화"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/86586"
@@ -4292,17 +2764,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "lifestyle",
-    "tag": {
-      "tag": [
-        "환경보호",
-        "친환경"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["환경보호", "친환경"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
@@ -4318,18 +2781,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 1,
     "category": "work",
-    "tag": {
-      "tag": [
-        "스타트업",
-        "IT",
-        "마케팅"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon"
-      ]
-    },
+    "tag": { "tag": ["스타트업", "IT", "마케팅"] },
+    "sendingday": { "day": ["Mon"] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
@@ -4345,21 +2798,8 @@
     "sendingterm": "weekly",
     "sendingnumber": 4,
     "category": "marketing",
-    "tag": {
-      "tag": [
-        "광고",
-        "아티클",
-        "국내외 뉴스"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Tue",
-        "Wed",
-        "Thu",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["광고", "아티클", "국내외 뉴스"] },
+    "sendingday": { "day": ["Tue", "Wed", "Thu", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": "https://page.stibee.com/archives/79436"
@@ -4375,22 +2815,333 @@
     "sendingterm": "weekly",
     "sendingnumber": 3,
     "category": "trend",
-    "tag": {
-      "tag": [
-        "최근 이슈",
-        "상식",
-        "취준생"
-      ]
-    },
-    "sendingday": {
-      "day": [
-        "Mon",
-        "Wed",
-        "Fri"
-      ]
-    },
+    "tag": { "tag": ["최근 이슈", "상식", "취준생"] },
+    "sendingday": { "day": ["Mon", "Wed", "Fri"] },
     "language": "ko",
     "publishing": true,
     "samplelink": null
+  },
+  {
+    "id": 168,
+    "published_at": "2021-05-07T00:45:33.158Z",
+    "created_at": "2021-05-07T00:45:30.367Z",
+    "updated_at": "2021-05-07T00:45:33.201Z",
+    "title": "중심잡지",
+    "description": " 《중심잡지》는 을지로를 중심으로 일어나는 예술 이슈들을 알리고, 기획자의 언어로 숨어있는 예술 이야기를 발굴해 전달하는 뉴스레터입니다.\n예술 중심에서 벌어지는 소식들을 전하고자 《중심잡지》를 만들었습니다.\n매주 금요일, 격주 다른 이야기들이 찾아갑니다.",
+    "subscriptionlink": "https://www.jsjz.center/%EC%A4%91%EC%8B%AC%EC%9E%A1%EC%A7%80-%EA%B5%AC%EB%8F%85%ED%95%98%EA%B8%B0",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "culture",
+    "tag": { "tag": ["큐레이션", "작가", "전시"] },
+    "sendingday": { "day": ["Fri"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://www.jsjz.center/%EC%86%8C%EC%8B%9D"
+  },
+  {
+    "id": 173,
+    "published_at": "2021-07-11T09:54:45.554Z",
+    "created_at": "2021-07-11T09:54:42.838Z",
+    "updated_at": "2021-07-11T09:54:45.591Z",
+    "title": "호랑이의 쪽지",
+    "description": "<호랑이의 쪽지>는 <호랑이의 정원>에서 발행하는 격주 뉴스레터 입니다.\n\n동네의 식물탐험을 중심으로 호랑이의 친구들이 일상에서 느끼는 소소한 생각을 담은 쪽지입니다. 재개발에서 살아남은 나무부터 계절마다 변하는 식물의 모습까지, 도시에서 살아가는 식물을 찾아가고 기록합니다.",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/102809",
+    "sendingterm": "biweekly",
+    "sendingnumber": 1,
+    "category": "lifestyle",
+    "tag": { "tag": ["식물"] },
+    "sendingday": { "day": ["Fri"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://page.stibee.com/archives/102809"
+  },
+  {
+    "id": 174,
+    "published_at": "2021-07-11T13:46:27.322Z",
+    "created_at": "2021-07-11T12:18:46.408Z",
+    "updated_at": "2021-07-11T13:46:27.372Z",
+    "title": "BB Letter",
+    "description": "☕️ 커피를 진지하게 다루는 사람들을 위한 <BB 레터>를 만나보세요. \n📮 팀 빈브라더스에게 영감을 준 이야기와 오늘의 일상이 매주 수요일, <BB 레터>로 찾아갑니다. ",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/112510",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "lifestyle",
+    "tag": { "tag": ["커피", "바리스타", "빈브라더스"] },
+    "sendingday": { "day": ["Wed"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://www.notion.so/4cbbd80fd44a4d18a32734144d023364"
+  },
+  {
+    "id": 175,
+    "published_at": "2021-07-26T01:47:37.112Z",
+    "created_at": "2021-07-26T01:47:37.163Z",
+    "updated_at": "2021-07-26T01:47:37.163Z",
+    "title": "혼자놀기 대백과사전",
+    "description": "자취인의 비밀 무기, 혼자놀기 대백과사전을 보러 오신 여러분 환영합니다!\n1인 가구를 위한  정보를 매주 금요일 낮 12시에 보내 드릴 거예요.\n\n",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/97673",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "lifestyle",
+    "tag": { "tag": ["자취"] },
+    "sendingday": { "day": ["Fri"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": ""
+  },
+  {
+    "id": 176,
+    "published_at": "2021-07-27T07:33:41.135Z",
+    "created_at": "2021-07-27T07:33:41.151Z",
+    "updated_at": "2021-07-27T07:33:41.151Z",
+    "title": "뉴술레터",
+    "description": "일주일의 한 가운데, 한 잔이 간절한 수요일!\n그에 꼭 맞는 한 잔을 뉴술레터가 골라드립니다.\n\n맛있는 술 추천은 물론 더 맛있게 마실 수 있는 꿀팁, \n술맛 돋우는 곳과 새로나온 술 소식까지!\n\n재미있는 술 이야기로 당신의 메일함을 찰랑찰랑 채워드릴게요.",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/89686",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "lifestyle",
+    "tag": { "tag": ["술 추천", "술 행사", "안주"] },
+    "sendingday": { "day": ["Wed"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": ""
+  },
+  {
+    "id": 177,
+    "published_at": "2021-07-27T07:39:27.603Z",
+    "created_at": "2021-07-27T07:39:27.644Z",
+    "updated_at": "2021-07-27T07:39:27.644Z",
+    "title": "귀짤단",
+    "description": "잉? 귀짤단의 일원이 되어 줄거야?\n귀짤단은 매주 월요일 마다 찾아오는 삐쭉이들을 물리치기 위해 귀여운 짤방을 메일로 보내주는 단체라네! \n\n일원이 되어줘서 꼬맙다리! ٩( ᐛ )و  \n따땃하고 폭신해지쟈!",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/78423",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "trend",
+    "tag": { "tag": ["짤", "귀여움"] },
+    "sendingday": { "day": ["Mon"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": ""
+  },
+  {
+    "id": 178,
+    "published_at": "2021-07-27T08:01:54.606Z",
+    "created_at": "2021-07-27T08:01:54.654Z",
+    "updated_at": "2021-07-27T08:01:54.654Z",
+    "title": "어떤효과",
+    "description": "세상에 존재하는 다양하고 재미있는,\n효과적인 이야기들을 전해드려요.\n\n📝  레터에 담긴 내용은 짧고 간단하지만\n어떻게 활용하느냐에 따라 깊은 인사이트로 발전할 수 있다고 믿어요.\n\n🎁  당신의 기획, 마케팅, 전략, 심리 등 다양한 필드에서 도움이 되기를 바라요.\n",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/83798",
+    "sendingterm": "biweekly",
+    "sendingnumber": 1,
+    "category": "marketing",
+    "tag": { "tag": ["심리", "경제", "사례"] },
+    "sendingday": { "day": ["Mon"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://some-effects.oopy.io/"
+  },
+  {
+    "id": 179,
+    "published_at": "2021-07-27T09:19:22.687Z",
+    "created_at": "2021-07-27T09:19:22.715Z",
+    "updated_at": "2021-07-27T09:36:37.773Z",
+    "title": "본느샹스 레터",
+    "description": "독서모임 <본느샹스> 운영자가 심사숙고해 고르고\n참가자들의 검증까지 거친 \n📚좋은 책을, 주제별 큐레이션 하여 소개합니다. \n\n실제로 독서모임에 사용된 발제문도 함께  보내드려요. \n독서 후에는 발제문을 활용해 생각을 정리해보세요!  :)",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/117308",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "culture",
+    "tag": { "tag": ["책큐레이션", "북캉스"] },
+    "sendingday": { "day": ["Fri"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://page.stibee.com/archives/117308"
+  },
+  {
+    "id": 180,
+    "published_at": "2021-07-27T09:34:44.862Z",
+    "created_at": "2021-07-27T09:34:44.876Z",
+    "updated_at": "2021-07-27T09:34:44.876Z",
+    "title": "애피레터",
+    "description": "한주의 동물 뉴스와 애피 콘텐츠로 다 담지 못한 소식들까지 전할 계획입니다. 환경과 생태 이슈를 오랫동안 취재한 조홍섭 선임기자가 동물에 대한 호기심도 '과학'으로 풀어드립니다. \n🐨 동물을 사랑하신다면, 애피레터의 구독자가 되어주세요. \n🐹 구독하시면 곧바로 메일함에 웰컴레터가 배달됩니다!",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/126971",
+    "sendingterm": "weekly",
+    "sendingnumber": 0,
+    "category": "lifestyle",
+    "tag": { "tag": ["한겨레", "동물 콘텐츠", "생명"] },
+    "sendingday": { "day": ["Tue"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://page.stibee.com/archives/126971"
+  },
+  {
+    "id": 181,
+    "published_at": "2021-07-27T10:00:01.771Z",
+    "created_at": "2021-07-27T10:00:01.786Z",
+    "updated_at": "2021-07-27T11:01:58.204Z",
+    "title": "ㄱㅈㅈㄱ(광진지금)",
+    "description": "ㄱㅈㅈㄱ(광진지금)은 서울 동쪽 끝, 상대적으로 덜 주목 받는 광진구를 알리고 싶다는 남다른 애착으로 시작된 자발적 사이드 프로젝트입니다.",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/124528",
+    "sendingterm": "biweekly",
+    "sendingnumber": 1,
+    "category": "lifestyle",
+    "tag": { "tag": ["광진구", "동네 콘텐츠"] },
+    "sendingday": { "day": ["Tue"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://page.stibee.com/archives/124528"
+  },
+  {
+    "id": 182,
+    "published_at": "2021-07-27T11:10:16.373Z",
+    "created_at": "2021-07-27T11:10:16.438Z",
+    "updated_at": "2021-07-27T11:10:50.089Z",
+    "title": "방구석 문화생활",
+    "description": "저희 <방구석 문화생활>팀은 \n\"오늘 뭐 보지?\"\n고민하시는 분들을 위해 문화예술 콘텐츠를 추천해드립니다.",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/99699",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "culture",
+    "tag": { "tag": ["콘텐츠", "문화생활"] },
+    "sendingday": { "day": ["Sat"] },
+    "language": "ko",
+    "publishing": false,
+    "samplelink": "https://page.stibee.com/archives/99699"
+  },
+  {
+    "id": 183,
+    "published_at": "2021-07-27T11:18:57.296Z",
+    "created_at": "2021-07-27T11:18:57.310Z",
+    "updated_at": "2021-07-27T11:55:12.390Z",
+    "title": "해피어레터",
+    "description": "오롤리데이의 모든 소식, 내가 제일 빠르게 알고 싶다!\n내가 바로 롤리어답터다!! 하는 분들 모이세요🙋🏻‍♀️🙋🏻‍♀️\n구독료는 공짜! 그렇지만 보는 순간 행복은 무한대 😇",
+    "subscriptionlink": "https://www.oh-lolly-day.com/shopinfo/happierletter.html",
+    "sendingterm": "biweekly",
+    "sendingnumber": 1,
+    "category": "marketing",
+    "tag": { "tag": ["노동일지", "일러스트", "감동 리뷰"] },
+    "sendingday": { "day": ["Thu"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": ""
+  },
+  {
+    "id": 184,
+    "published_at": "2021-07-27T11:26:32.962Z",
+    "created_at": "2021-07-27T11:26:33.009Z",
+    "updated_at": "2021-07-27T11:27:28.929Z",
+    "title": "DIE PAUSE(디 파우제)",
+    "description": "당신의 독일어 쉼터가 되어줄 DIE PAUSE (디 파우제) 입니다. \n[누구도 알려주지 않았던 독일 문화]를 매주 목요일마다 발행합니다.",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/101330",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "education",
+    "tag": { "tag": ["독일"] },
+    "sendingday": { "day": ["Thu"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": ""
+  },
+  {
+    "id": 185,
+    "published_at": "2021-07-27T11:35:37.770Z",
+    "created_at": "2021-07-27T11:35:37.859Z",
+    "updated_at": "2021-07-28T06:11:57.660Z",
+    "title": "요기레터",
+    "description": "첫째 , 셋째 주 수요일 발행되는 푸드 탐험 뉴스레터입니다. \n익숙한 음식이 만들어지는 장소를 탐험하고 \n숨겨진 이야기를 찾아 들려드려요. \n익숙한 음식이 만들어지는 장소부터, 숨겨진 동네 맛집까지.\n지금 요기레터 구독하고 함께 푸드탐험을 떠나요🏃",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/123079",
+    "sendingterm": "monthly",
+    "sendingnumber": 2,
+    "category": "marketing",
+    "tag": { "tag": ["요기요", "음식", "맛집"] },
+    "sendingday": { "day": ["Wed"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://page.stibee.com/archives/123079"
+  },
+  {
+    "id": 193,
+    "published_at": "2021-07-28T05:59:54.108Z",
+    "created_at": "2021-07-28T05:59:54.132Z",
+    "updated_at": "2021-07-28T06:15:46.471Z",
+    "title": "주간 배짱이",
+    "description": "배달의민족을 짱 좋아하는 이들,\n배짱이 여러분을 위한 뉴스레터\n<주간 배짱이>를 만나보세요!\n\n읽기만 해도 군침 도는 음식 에세이와\n배민의 비하인드 스토리까지!😀\n\n매주 목요일 아침,\n<주간 배짱이>가 찾아갑니다.",
+    "subscriptionlink": "https://www.baemin.com/newsletter",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "marketing",
+    "tag": { "tag": ["배민", "음식"] },
+    "sendingday": { "day": ["Thu"] },
+    "language": "ko",
+    "publishing": false,
+    "samplelink": "https://blog.naver.com/smartbaedal/222058660035"
+  },
+  {
+    "id": 194,
+    "published_at": "2021-07-31T13:35:03.608Z",
+    "created_at": "2021-07-31T13:35:03.779Z",
+    "updated_at": "2021-07-31T13:35:03.779Z",
+    "title": "찰리씨네 다이어리",
+    "description": "조금 오래된 영화를 좋아합니다.\n너무 무겁지도, 너무 가볍지도 않게,\n매주 토요일 오전 11시에 찾아갑니다.",
+    "subscriptionlink": "https://charliecinediary.imweb.me/index",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "culture",
+    "tag": { "tag": ["21세기 이전", "영화 소개"] },
+    "sendingday": { "day": ["Sat"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://charliecinediary.imweb.me/15"
+  },
+  {
+    "id": 195,
+    "published_at": "2021-07-31T13:47:34.628Z",
+    "created_at": "2021-07-31T13:47:34.641Z",
+    "updated_at": "2021-07-31T13:47:34.641Z",
+    "title": "단련일기",
+    "description": "마흔을 앞두고 비슷한 고민을 가진 여자 셋 \n🥵박연습 🤢황집중 🥶정수련이 \n몸과 마음을 단련하는 이야기를 발행합니다.",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/97705",
+    "sendingterm": "biweekly",
+    "sendingnumber": 1,
+    "category": "lifestyle",
+    "tag": { "tag": ["1인가구", "습관", "돌봄"] },
+    "sendingday": { "day": [] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://page.stibee.com/archives/97705"
+  },
+  {
+    "id": 196,
+    "published_at": "2021-07-31T13:55:44.969Z",
+    "created_at": "2021-07-31T13:55:44.983Z",
+    "updated_at": "2021-07-31T13:56:06.578Z",
+    "title": "이지딥레터",
+    "description": "바쁜 당신을 위한 AI 트렌드 뉴스레터\n이지딥레터\n\nAI 어려워? Easy하고 Deep하게 알려줄게!  \n알고리마 뉴스레터 구독하세요!",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/80845",
+    "sendingterm": "weekly",
+    "sendingnumber": 1,
+    "category": "tech",
+    "tag": { "tag": ["인공지능"] },
+    "sendingday": { "day": ["Thu"] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": "https://page.stibee.com/archives/80845"
+  },
+  {
+    "id": 197,
+    "published_at": "2021-08-02T13:53:06.367Z",
+    "created_at": "2021-08-02T13:53:06.415Z",
+    "updated_at": "2021-08-02T13:53:06.415Z",
+    "title": "굿튜브",
+    "description": "굿튜브는 굿수진이 유튜브 브랜드 채널 담당자로, 개인 채널 운영자로, 차곡차곡 저장해 둔 유튜브 데이터들이 싹을 틔우고 자라날 수 있게 소개하는 유튜브 추천 뉴스레터 입니다.\n\n",
+    "subscriptionlink": "https://page.stibee.com/subscriptions/100214",
+    "sendingterm": "?",
+    "sendingnumber": 0,
+    "category": "trend",
+    "tag": { "tag": ["손고리즘", "채널 추천", "좋은 유튜브"] },
+    "sendingday": { "day": [] },
+    "language": "ko",
+    "publishing": true,
+    "samplelink": ""
   }
 ]
